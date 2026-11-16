@@ -1,0 +1,79 @@
+{
+ "name": "Landmarks",
+ "item": "landmark",
+ "items": "landmarks",
+ "title": "name",
+ "practices": [
+  {
+   "name": "What is it called?",
+   "columns": [
+    "photo",
+    "name"
+   ]
+  },
+  {
+   "name": "Where in the world?",
+   "columns": [
+    "photo",
+    "name",
+    "location"
+   ]
+  },
+  {
+   "name": "Which country?",
+   "columns": [
+    "photo",
+    "name",
+    "country"
+   ]
+  }
+ ],
+ "columns": [
+  {
+   "name": "name",
+   "type": "text"
+  },
+  {
+   "name": "photo",
+   "type": "plain",
+   "media": "image"
+  },
+  {
+   "name": "country",
+   "type": "plain"
+  },
+  {
+   "name": "continent",
+   "type": "plain"
+  },
+  {
+   "name": "location",
+   "type": "sphere",
+   "label": "Where it is"
+  },
+  {
+   "name": "kind",
+   "type": "tree",
+   "label": "What it is"
+  },
+  {
+   "name": "finished",
+   "type": "number",
+   "label": "Year finished"
+  },
+  {
+   "name": "name sound",
+   "type": "embedding",
+   "file": "name-sound.npy",
+   "of": "name",
+   "model": "bookbot/onnx-byt5-small-wikipron-eng-latn-au-broad"
+  },
+  {
+   "name": "photo look",
+   "type": "embedding",
+   "file": "photo-look.npy",
+   "of": "photo",
+   "model": "facebook/dinov2-base"
+  }
+ ]
+}
