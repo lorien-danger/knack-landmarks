@@ -7,7 +7,6 @@ Great Mosque of Djenné|built > religious > mosque
 Church of St George, Lalibela|built > religious > church
 Great Zimbabwe|built > ancient city
 Ngorongoro Crater|natural > landform > crater
-Hassan II Mosque|built > religious > mosque
 Leptis Magna|built > ancient city
 Amphitheatre of El Jem|built > venue > amphitheatre
 Okavango Delta|natural > water > river delta
@@ -54,7 +53,6 @@ Boudhanath|built > religious > stupa
 Sigiriya|built > defence > fortress
 Paro Taktsang|built > religious > monastery
 Burj Khalifa|built > skyscraper
-Sheikh Zayed Grand Mosque|built > religious > mosque
 Petra|built > ancient city
 Wadi Rum|natural > landform > valley
 Pamukkale|natural > water > hot spring
@@ -67,7 +65,6 @@ Badshahi Mosque|built > religious > mosque
 Lake Baikal|natural > water > lake
 Taipei 101|built > skyscraper
 Bagan|built > ancient city
-Bayterek Tower|built > tower
 Mount Kinabalu|natural > landform > mountain
 Eiffel Tower|built > tower
 Mont-Saint-Michel|built > town

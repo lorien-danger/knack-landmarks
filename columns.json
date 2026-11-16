@@ -62,6 +62,13 @@
    "name": "finished",
    "type": "number",
    "label": "Year finished"
+  },
+  {
+   "name": "name sound",
+   "type": "embedding",
+   "file": "name-sound.npy",
+   "of": "name",
+   "model": "bookbot/onnx-byt5-small-wikipron-eng-latn-au-broad"
   }
  ]
 }
