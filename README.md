@@ -69,8 +69,11 @@ article. Where there were several, or the main one was taken at night, from an o
 Inari-taisha, the Cliffs of Moher, the Space Needle and the Sky Tower) none of Wikidata's was right, and one was chosen
 from a Commons search. `build/photos.tsv` names every file and where it was found.
 
-The files were downloaded from Wikimedia Commons and scaled to fit 560 × 480 pixels (about LICENCE_SIZE in all).
-LICENCE_COUNTS. Author, licence, Commons page and description for every file are in
+The files were downloaded from Wikimedia Commons and scaled to fit 560 × 480 pixels (about 7 MB in all).
+Their licences: CC BY-SA 4.0 (66), CC BY-SA 3.0 (31, three of them the German port), public domain (16), CC BY 2.0
+(12), CC BY 2.5 (6), CC0 (6), CC BY-SA 2.0 (5, one the Austrian port), CC BY-SA 2.5 (5, one the Dutch port), Free Art
+License (3), CC BY 3.0 (2), CC BY 4.0 (2) and the Korea Open Government Licence Type 1 (1, Gyeongbokgung; attribution
+only). Where a file page names no author, the uploader is credited and marked as such. Author, licence, Commons page and description for every file are in
 [`media/credits.tsv`](media/credits.tsv).
 
 ## Licence
@@ -85,7 +88,19 @@ Each photograph in `media/` keeps its own licence, listed with its author in `me
 
 ## Checked by hand
 
-CHECKED
+- Every photograph, by eye, against its landmark: about 250 Wikidata images and 70 Commons search results were looked
+  at, and the one that shows the landmark as people know it, whole and in daylight, was chosen.
+- Every place on the globe lies inside its country's border (tested against the shapes in
+  [knack-countries](https://github.com/lorien-danger/knack-countries)); the ones that fall just outside are on a
+  coast or in the Vatican, which that scale cannot resolve.
+- Whole rows read one by one against what is known of them: the Great Pyramid, Angkor Wat, the Eiffel Tower, the Golden
+  Gate Bridge, the Burj Khalifa, Tikal Temple I, Uluru, Kaieteur Falls, Deadvlei, Nan Madol, Ahu Tongariki and Mount
+  Erebus. Names, countries, places, kinds and years are right.
+- Every year, against the infobox or statement it was read from (`build/years.tsv` quotes each).
+- The photo look embedding, by its nearest neighbours: the CN Tower is nearest the Space Needle, the Sky Tower and the
+  Tokyo Skytree; Murchison Falls nearest Kaieteur Falls, the Rhine Falls and Gullfoss.
+- In the Knack app, at phone size: the Columns screen for every column, and each suggested deck practised for
+  about fifteen questions.
 
 ## Building it
 
