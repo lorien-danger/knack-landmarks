@@ -1,0 +1,163 @@
+Great Pyramid of Giza|built > monument > tomb
+Great Sphinx of Giza|built > monument > statue
+Abu Simbel|built > religious > temple
+Karnak|built > religious > temple
+Kilimanjaro|natural > landform > volcano
+Table Mountain|natural > landform > mountain
+Great Mosque of Djenné|built > religious > mosque
+Church of St George, Lalibela|built > religious > church
+Great Zimbabwe|built > ancient city
+Ngorongoro Crater|natural > landform > crater
+Hassan II Mosque|built > religious > mosque
+Leptis Magna|built > ancient city
+Amphitheatre of El Jem|built > venue > amphitheatre
+Okavango Delta|natural > water > river delta
+Obelisk of Axum|built > monument > obelisk
+Murchison Falls|natural > water > waterfall
+Fasil Ghebbi|built > defence > fortress
+Tsingy de Bemaraha|natural > landform > rock formation
+Deadvlei|natural > landform > clay pan
+Great Mosque of Kairouan|built > religious > mosque
+Basilica of Our Lady of Peace|built > religious > church
+Aït Benhaddou|built > town
+Blyde River Canyon|natural > landform > canyon
+Mount Kenya|natural > landform > mountain
+Taj Mahal|built > monument > tomb
+Golden Temple|built > religious > temple
+Qutb Minar|built > tower
+Hawa Mahal|built > palace
+Meenakshi Temple|built > religious > temple
+Great Wall of China|built > defence > wall
+Forbidden City|built > palace
+Temple of Heaven|built > religious > temple
+Potala Palace|built > palace
+Terracotta Army|built > monument > statue
+Tianzi Mountains|natural > landform > mountain
+Mount Fuji|natural > landform > volcano
+Himeji Castle|built > defence > castle
+Fushimi Inari-taisha|built > religious > shrine
+Kinkaku-ji|built > religious > temple
+Itsukushima Shrine|built > religious > shrine
+Tokyo Skytree|built > tower
+Angkor Wat|built > religious > temple
+Borobudur|built > religious > temple
+Prambanan|built > religious > temple
+Mount Bromo|natural > landform > volcano
+Shwedagon Pagoda|built > religious > stupa
+Wat Arun|built > religious > temple
+Ha Long Bay|natural > water > bay
+Petronas Towers|built > skyscraper
+Marina Bay Sands|built > hotel
+Chocolate Hills|natural > landform > hills
+Mayon Volcano|natural > landform > volcano
+Gyeongbokgung|built > palace
+Boudhanath|built > religious > stupa
+Sigiriya|built > defence > fortress
+Paro Taktsang|built > religious > monastery
+Burj Khalifa|built > skyscraper
+Sheikh Zayed Grand Mosque|built > religious > mosque
+Petra|built > ancient city
+Wadi Rum|natural > landform > valley
+Pamukkale|natural > water > hot spring
+Persepolis|built > ancient city
+Shah Mosque, Isfahan|built > religious > mosque
+Registan|built > square
+Mount Ararat|natural > landform > volcano
+Baalbek|built > ancient city
+Badshahi Mosque|built > religious > mosque
+Lake Baikal|natural > water > lake
+Taipei 101|built > skyscraper
+Bagan|built > ancient city
+Bayterek Tower|built > tower
+Mount Kinabalu|natural > landform > mountain
+Eiffel Tower|built > tower
+Mont-Saint-Michel|built > town
+Colosseum|built > venue > amphitheatre
+Leaning Tower of Pisa|built > tower
+St Peter's Basilica|built > religious > church
+Sagrada Família|built > religious > church
+Alhambra|built > palace
+Parthenon|built > religious > temple
+Stonehenge|built > monument > stone circle
+Big Ben|built > tower
+Tower Bridge|built > bridge
+Neuschwanstein Castle|built > palace
+Brandenburg Gate|built > monument > gate
+Cologne Cathedral|built > religious > church
+St Basil's Cathedral|built > religious > church
+Charles Bridge|built > bridge
+Atomium|built > monument > sculpture
+Mount Etna|natural > landform > volcano
+Giant's Causeway|natural > landform > rock formation
+Cliffs of Moher|natural > landform > cliff
+Plitvice Lakes|natural > water > lake
+Meteora|built > religious > monastery
+Geirangerfjord|natural > water > fjord
+Preikestolen|natural > landform > cliff
+Gullfoss|natural > water > waterfall
+Belém Tower|built > defence > fort
+Hungarian Parliament|built > parliament
+Bran Castle|built > defence > castle
+Rhine Falls|natural > water > waterfall
+Statue of Liberty|built > monument > statue
+Golden Gate Bridge|built > bridge
+Grand Canyon|natural > landform > canyon
+Mount Rushmore|built > monument > sculpture
+Empire State Building|built > skyscraper
+Old Faithful|natural > water > geyser
+Half Dome|natural > landform > mountain
+Devils Tower|natural > landform > rock formation
+Delicate Arch|natural > landform > rock formation
+Gateway Arch|built > monument > arch
+Space Needle|built > tower
+Denali|natural > landform > mountain
+Grand Prismatic Spring|natural > water > hot spring
+CN Tower|built > tower
+Château Frontenac|built > hotel
+Moraine Lake|natural > water > lake
+El Castillo, Chichén Itzá|built > religious > temple
+Pyramid of the Sun|built > religious > temple
+Tikal Temple I|built > religious > temple
+Arenal Volcano|natural > landform > volcano
+Great Blue Hole|natural > water > sinkhole
+Pitons|natural > landform > mountain
+El Capitolio, Havana|built > parliament
+Citadelle Laferrière|built > defence > fortress
+Popocatépetl|natural > landform > volcano
+Panama Canal|built > canal
+Machu Picchu|built > ancient city
+Christ the Redeemer|built > monument > statue
+Sugarloaf Mountain|natural > landform > mountain
+Angel Falls|natural > water > waterfall
+Perito Moreno Glacier|natural > water > glacier
+Torres del Paine|natural > landform > mountain
+Ahu Tongariki|built > monument > statue
+Salar de Uyuni|natural > landform > salt flat
+Cotopaxi|natural > landform > volcano
+Aconcagua|natural > landform > mountain
+Nazca Lines|built > monument > geoglyph
+Cathedral of Brasília|built > religious > church
+Rainbow Mountain|natural > landform > mountain
+Kaieteur Falls|natural > water > waterfall
+Las Lajas Sanctuary|built > religious > church
+Teatro Amazonas|built > venue > opera house
+Lençóis Maranhenses|natural > landform > dunes
+Obelisco de Buenos Aires|built > monument > obelisk
+Sacsayhuamán|built > defence > fortress
+Castillo San Felipe de Barajas|built > defence > fortress
+Sydney Opera House|built > venue > opera house
+Sydney Harbour Bridge|built > bridge
+Uluru|natural > landform > rock formation
+Twelve Apostles|natural > landform > rock formation
+Great Barrier Reef|natural > water > reef
+Milford Sound|natural > water > fjord
+Aoraki / Mount Cook|natural > landform > mountain
+Sky Tower|built > tower
+Nan Madol|built > ancient city
+Wave Rock|natural > landform > rock formation
+Kata Tjuta|natural > landform > rock formation
+Pōhutu Geyser|natural > water > geyser
+Mount Taranaki|natural > landform > volcano
+Mount Erebus|natural > landform > volcano
+Lemaire Channel|natural > water > strait
+Deception Island|natural > landform > volcano

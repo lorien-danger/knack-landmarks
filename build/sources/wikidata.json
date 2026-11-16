@@ -1,0 +1,8487 @@
+{
+ "items": {
+  "Q37200": {
+   "label": "Great Pyramid of Giza",
+   "description": "oldest and largest of the three pyramids in the Giza Necropolis; one of the seven ancient wonders of the world",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q79",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       29.97915,
+       31.13422
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q4363262",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q66108498",
+      "rank": "normal"
+     },
+     {
+      "v": "Q175582",
+      "rank": "normal"
+     },
+     {
+      "v": "Q381885",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-2560-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal",
+      "q": {
+       "P1480": [
+        "Q5727902"
+       ]
+      }
+     }
+    ],
+    "P18": [
+     {
+      "v": "Great Pyramid of Giza - Pyramid of Khufu.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q130958": {
+   "label": "The Great Sphinx",
+   "description": "ancient Egyptian monumental sculpture",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q79",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       29.97527,
+       31.13768
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q12223988",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-2559-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal",
+      "q": {
+       "P1480": [
+        "Q5727902"
+       ]
+      }
+     }
+    ],
+    "P18": [
+     {
+      "v": "Great Sphinx of Giza May 2015.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q134140": {
+   "label": "Abu Simbel",
+   "description": "UNESCO World Heritage Site in southern Egypt",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q79",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       22.336944444444,
+       31.625555555556
+      ],
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+1968-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q58621988",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1497375",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-1274-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal",
+      "q": {
+       "P1480": [
+        "Q26961029"
+       ]
+      }
+     }
+    ],
+    "P18": [
+     {
+      "v": "Großer Tempel (Abu Simbel) 31.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Panorama Abu Simbel crop.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q522862": {
+   "label": "Karnak Temple Complex",
+   "description": "ancient Egyptian temple complex",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q79",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       25.718333333333334,
+       32.65833333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q44539",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-1900-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Luxor, Egypt, Karnak.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q7296": {
+   "label": "Mount Kilimanjaro",
+   "description": "mountain massif in Kilimanjaro National Park in Tanzania",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q924",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -3.0666666666667,
+       37.359166666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1061151",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1325302",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q15",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mount Kilimanjaro Dec 2009 edit1.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Mount Kilimanjaro.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Mt. Kilimanjaro 12.2006.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q213360": {
+   "label": "Table Mountain",
+   "description": "mountain in Cape Town, South Africa",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q258",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -33.96216,
+       18.41352
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q570116",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Table Mountain DanieVDM.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Cape Town Table Mountain.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q683632": {
+   "label": "Great Mosque of Djenné",
+   "description": "mosque in Djenné, Mali",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q912",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       13.905277777778,
+       -4.5555555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q32815",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+1907-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1906-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1907-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Great Mosque of Djenné 1.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q7971367": {
+   "label": "Church of Saint George",
+   "description": "one of eleven monolithic churches in Lalibela, Ethiopia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q115",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       12.031625,
+       39.041147222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1931855",
+      "rank": "normal"
+     },
+     {
+      "v": "Q16970",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1200-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Lalibela, san giorgio, esterno 24.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q209217": {
+   "label": "Great Zimbabwe",
+   "description": "ruined city in the south-eastern hills of Zimbabwe near Lake Mutirikwe and the town of Masvingo, was once the capital of the Kingdom of Zimbabwe during the country's Late Iron Age",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q954",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -20.27,
+       30.933
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q109607",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q515",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Great-Zimbabwe-6.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1217726": {
+   "label": "Ngorongoro Conservation Area",
+   "description": "World Heritage Site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q924",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -3.21,
+       35.46
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q473972",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1959-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Ngorongo 1.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q41346": {
+   "label": "Hassan II Mosque",
+   "description": "Mosque in Casablanca, Morocco",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q1028",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       33.60734166666667,
+       -7.632561111111111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q32815",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1993-08-30T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Sunshine on mosque Hassan II in Casablanca, Morocco - Flickr - Milamber's portfolio.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q191504": {
+   "label": "Leptis Magna",
+   "description": "ancient city in modern Libya",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q2429397",
+      "rank": "normal",
+      "q": {
+       "P582": [
+        {
+         "time": "-0146-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q12544",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+0533-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ],
+       "P582": [
+        {
+         "time": "+0637-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q1016",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q1747689",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       32.638331884068016,
+       14.29049645909896
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       32.636748,
+       14.2922
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q15661340",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q655593",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2202509",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-0700-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Leptis Magna (29) (8288918733).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2914326": {
+   "label": "Roman amphitheatre of El Jem",
+   "description": "Carthagian amphitheatre in Tunisia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q948",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       35.29638889,
+       10.70694444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q7362268",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0238-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Anfiteatro, El Jem, Túnez, 2016-09-04, DD 55-66 HDR PAN.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q650872": {
+   "label": "Okavango Delta",
+   "description": "river delta in Botswana",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q963",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -19.4,
+       22.9
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q43197",
+      "rank": "normal"
+     },
+     {
+      "v": "Q15324",
+      "rank": "normal"
+     },
+     {
+      "v": "Q355304",
+      "rank": "normal"
+     },
+     {
+      "v": "Q302646",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Okavango11.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2308606": {
+   "label": "Obelisk of Axum",
+   "description": "4th-century phonolite stele in Axum, Tigray Region, Ethiopia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q115",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       14.132166666667,
+       38.719666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q170980",
+      "rank": "normal"
+     },
+     {
+      "v": "Q178743",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0300-01-01T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal",
+      "q": {
+       "P1480": [
+        "Q5727902"
+       ]
+      }
+     }
+    ],
+    "P18": [
+     {
+      "v": "Rome Stele.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q495475": {
+   "label": "Murchison Falls",
+   "description": "waterfall on the Nile in Uganda",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q1036",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       2.2783333333333333,
+       31.685555555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q34038",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Murchison Falls 573x430.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Murchison Falls from above.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q464695": {
+   "label": "Fasil Ghebbi",
+   "description": "fortress",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q115",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q200464",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       12.608055555556,
+       37.469722222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q57831",
+      "rank": "normal"
+     },
+     {
+      "v": "Q210272",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "ET Gondar asv2018-02 img02 Fasil Ghebbi.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1969107": {
+   "label": "Tsingy de Bemaraha National Park",
+   "description": "strict nature reserve of Madagascar",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q1019",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -18.9006,
+       44.814
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       -18.90061111111111,
+       44.814
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q20489083",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1997-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Tsingy de Bemaraha.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1180957": {
+   "label": "Deadvlei",
+   "description": "Claypan in Namibia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q1030",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -24.76333,
+       15.29472
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q190429",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Parched-earth-dead-vlei.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Dead Vlei 5.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1255269": {
+   "label": "Great Mosque of Kairouan",
+   "description": "Tunisian religious building and site of Islamic worship",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q948",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       35.681388888889,
+       10.103888888889
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q32815",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0670-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Grande Mosquée de Kairouan, vue d'ensemble.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q815584": {
+   "label": "Basilica of Our Lady of Peace of Yamoussoukro",
+   "description": "Roman Catholic basilica minor in Yamoussoukro, Ivory Coast",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q1008",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       6.811111111111111,
+       -5.296944444444445
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q120560",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1088552",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1989-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Basilique notre Dame de la Paix de Yamoussoukro 16.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q309436": {
+   "label": "Aït Benhaddou",
+   "description": "Historical village in southeastern Morocco",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q1028",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       31.05,
+       -7.1333333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q89691",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2434238",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Ait Ben Haddou 3.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q886892": {
+   "label": "Blyde River Canyon",
+   "description": "South Africa",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q258",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -24.563889,
+       30.8075
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q150784",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Blyde River Canyon, Mpumalanga, South Africa (20328002030).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q172070": {
+   "label": "Mount Kenya",
+   "description": "African stratovolcano",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q114",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -0.1,
+       37.2
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q14545628",
+      "rank": "normal"
+     },
+     {
+      "v": "Q8502",
+      "rank": "preferred"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mount kenya.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q9141": {
+   "label": "Taj Mahal",
+   "description": "marble mausoleum in Agra, India",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q668",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       27.175,
+       78.04194444444444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q162875",
+      "rank": "normal"
+     },
+     {
+      "v": "Q381885",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Taj Mahal (Edited).jpeg",
+      "rank": "normal"
+     },
+     {
+      "v": "Taj Mahal, Agra, India edit3.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q180422": {
+   "label": "Harmandir Sahib",
+   "description": "Sikh religious site in Amritsar, Punjab, India",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q668",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       31.62,
+       74.876667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q811979",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1081138",
+      "rank": "normal"
+     },
+     {
+      "v": "Q15135589",
+      "rank": "normal"
+     },
+     {
+      "v": "Q337986",
+      "rank": "preferred"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1589-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Hamandir Sahib (Golden Temple).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q187635": {
+   "label": "Qutb Minar",
+   "description": "minaret in the Mehrauli area of Delhi, India",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q668",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       28.524355,
+       77.185248
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q48356",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Madrasa and tomb of Alauddin Khalji 2.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "A Potrait view of Qutub Minar.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q836531": {
+   "label": "Hawa Mahal",
+   "description": "palace in Jaipur, Rajasthan, India",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q668",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       26.924,
+       75.82672
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q16560",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1799-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1799-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "East facade Hawa Mahal Jaipur from ground level (July 2022) - img 01.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1424358": {
+   "label": "Meenakshi Temple",
+   "description": "historic Hindu temple in Madurai, Tamil Nadu, India",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q668",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       9.919722222222223,
+       78.11944444444444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q842402",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1435771",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1200-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Madurai Meenakshi temple 2.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Meenakshi Temple, Gopuram, Madurai, India.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q12501": {
+   "label": "Great Wall of China",
+   "description": "series of fortifications built along the historical border of China",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q148",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       40.43138888888889,
+       116.56444444444445
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1784293",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-0700-00-00T00:00:00Z",
+       "precision": 8
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Badaling China Great-Wall-of-China-06.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "The Great Wall of China at Jinshanling-edit.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q80290": {
+   "label": "Forbidden City",
+   "description": "Chinese imperial palace in Beijing",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q148",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       39.91583333333333,
+       116.39083333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q16560",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1497364",
+      "rank": "normal"
+     },
+     {
+      "v": "Q33506",
+      "rank": "normal"
+     },
+     {
+      "v": "Q6838244",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1420-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1923-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Hall of Supreme Harmony (20241127120000).jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "景山公园 (20315852831)- cropped.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q125445": {
+   "label": "Temple of Heaven",
+   "description": "imperial complex of religious buildings in Beijing, China",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q148",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       39.8822,
+       116.4066
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q44539",
+      "rank": "normal"
+     },
+     {
+      "v": "Q6838244",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Temple of Heaven 20160323 01.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q71229": {
+   "label": "Potala Palace",
+   "description": "7th-century Tibetan fortress and palace in Lhasa, rebuilt in the 17th century as the winter seat of the Dalai Lamas",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q2444884",
+      "rank": "normal"
+     },
+     {
+      "v": "Q148",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       29.657777777777778,
+       91.11694444444444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q16560",
+      "rank": "normal"
+     },
+     {
+      "v": "Q5393308",
+      "rank": "normal"
+     },
+     {
+      "v": "Q4588528",
+      "rank": "normal"
+     },
+     {
+      "v": "Q6838244",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0637-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Potala.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q47672": {
+   "label": "Terracotta Army",
+   "description": "collection of ancient Chinese military statues",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q148",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       34.385,
+       109.27305555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q2772772",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q162875",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-0248-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Terracotta Army, View of Pit 1.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Qin Shihuang Terracotta Army, Pit 1.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "51714-Terracota-Army.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q7800262": {
+   "label": "Tianzi Mountain",
+   "description": "Area in Hunan, China",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q148",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       29.39418,
+       110.49478
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "China Tianzi Gebirge.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q39231": {
+   "label": "Mount Fuji",
+   "description": "volcano in Yamanashi and Shizuoka Prefectures, Japan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q17",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       35.36055555555556,
+       138.7275
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1330974",
+      "rank": "normal"
+     },
+     {
+      "v": "Q3393392",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11571545",
+      "rank": "normal"
+     },
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11588709",
+      "rank": "normal"
+     },
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Kodaki fuji frm shojinko refurb.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q188754": {
+   "label": "Himeji Castle",
+   "description": "Japanese castle complex",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q17",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       34.839444444444446,
+       134.69361111111112
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q92026",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11482498",
+      "rank": "normal"
+     },
+     {
+      "v": "Q751876",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1609-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     },
+     {
+      "v": {
+       "time": "+1347-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "preferred"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Himeji Castle, Hyōgo Prefecture; August 2018 (04).jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Himeji castle in may 2015.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q714828": {
+   "label": "Fushimi Inari-taisha",
+   "description": "Shinto shrines in Kyoto, Japan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q17",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       34.967202,
+       135.773386
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q514480",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11438310",
+      "rank": "normal"
+     },
+     {
+      "v": "Q134917286",
+      "rank": "normal"
+     },
+     {
+      "v": "Q845945",
+      "rank": "normal"
+     },
+     {
+      "v": "Q135009132",
+      "rank": "normal"
+     },
+     {
+      "v": "Q135419779",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0711-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Fushimiinari-taisha, naihaiden-1.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q270983": {
+   "label": "Kinkaku-ji Temple",
+   "description": "Zen Buddhist temple in Kyoto, Japan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q17",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       35.0395,
+       135.7285
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q15835",
+      "rank": "normal"
+     },
+     {
+      "v": "Q5393308",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1397-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Water reflection of Kinkaku-ji Temple a sunny day, Kyoto, Japan.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q191763": {
+   "label": "Itsukushima Shrine",
+   "description": "Shinto shrine in Hiroshima Prefecture, Japan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q17",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       34.29577,
+       132.320105
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q125316256",
+      "rank": "normal"
+     },
+     {
+      "v": "Q134917286",
+      "rank": "normal"
+     },
+     {
+      "v": "Q845945",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11451876",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0593-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Itsukushima Gate.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q57965": {
+   "label": "Tokyo Skytree",
+   "description": "tower in Tokyo, Japan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q17",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       35.710055555555556,
+       139.8107222222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1440300",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11166728",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1068623",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1798641",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+2012-05-22T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+2012-05-22T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P729": [
+     {
+      "v": {
+       "time": "+2013-05-31T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Tokyo Skytree 2023.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q43473": {
+   "label": "Angkor Wat",
+   "description": "Hindu-Buddhist temple complex in Cambodia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q424",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q201705",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       13.4125,
+       103.86666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q5393308",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q58621988",
+      "rank": "normal"
+     },
+     {
+      "v": "Q842402",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1200-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal"
+     },
+     {
+      "v": {
+       "time": "+0802-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Angkor wat temple.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Ankor Wat temple.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Angkor Wat with its reflection (cropped).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q42798": {
+   "label": "Borobudur Temple",
+   "description": "Buddhist temple in Java, Indonesia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q252",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -7.60793,
+       110.20384
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q5393308",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2736554",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0800-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Borobudur-Nothwest-view.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Pradaksina.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q47721": {
+   "label": "Prambanan Temple",
+   "description": "Hindu temple in Yogyakarta and Central Java, Indonesia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q252",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -7.752,
+       110.49122
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q134456340",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2736554",
+      "rank": "normal"
+     },
+     {
+      "v": "Q842402",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0850-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Prambanan Complex 1.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q679590": {
+   "label": "Mount Bromo",
+   "description": "Active volcano in East Java, Indonesia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q252",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -7.9430555555556,
+       112.95388888889
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       -7.943055555,
+       112.953888888
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     },
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mount Bromo closeup on sunrise 2.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q464535": {
+   "label": "Shwedagon Pagoda",
+   "description": "religious building in Yangon, Myanmar",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q836",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       16.79833333,
+       96.14944444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q5393308",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Shwedagon Pagoda, Golden stupa 2, Yangon, Myanmar.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Yangon - Shwedagon Pagoda 03.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q724970": {
+   "label": "Wat Arun",
+   "description": "Buddhist temple in central Bangkok, Thailand",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q869",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       13.743688888888888,
+       100.48891944444445
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q427287",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1656-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Wat Arun from Chao Phraya River.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q190128": {
+   "label": "Ha Long Bay",
+   "description": "UNESCO World Heritage Site in Vietnam",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q881",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       20.9,
+       107.2
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q39594",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Halong Bay in Vietnam.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Halong ensemble (colour corrected).jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q83063": {
+   "label": "Petronas Towers",
+   "description": "twin skyscrapers in Kuala Lumpur, Malaysia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q833",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       3.1577777777777776,
+       101.71166666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q118896406",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11303",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1993-03-01T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1999-08-31T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Kuala Lumpur - panoramio (18).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q548679": {
+   "label": "Marina Bay Sands",
+   "description": "integrated resort in Singapore",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q334",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       1.2825,
+       103.86
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q27686",
+      "rank": "normal"
+     },
+     {
+      "v": "Q6043159",
+      "rank": "normal"
+     },
+     {
+      "v": "Q18142",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+2010-06-23T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+2010-06-23T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Marina Bay Sands Hotel 3 (31345110894).jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Singapore Skyline Marina Bay Sands.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q977422": {
+   "label": "Chocolate Hills",
+   "description": "geological formation in Bohol, Philippines",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q928",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       9.9166666666667,
+       124.16666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q54050",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Chocolate Hills overview.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1484": {
+   "label": "Mayon Volcano",
+   "description": "volcano in the Philippines",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q928",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       13.256666666667,
+       123.685
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     },
+     {
+      "v": "Q207326",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "MayonVolcano.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Mayon Volcano as of March 2020.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q482485": {
+   "label": "Gyeongbokgung",
+   "description": "palace in Seoul, South Korea",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q884",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       37.5798841,
+       126.9767996
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q16560",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1395-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "광화문 월대.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q889902": {
+   "label": "Boudhanath",
+   "description": "Buddhist stupa in Kathmandu, Nepal",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q837",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       27.721389,
+       85.361944
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q486972",
+      "rank": "normal"
+     },
+     {
+      "v": "Q180987",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Bouddhanath, 2009.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Boudha Stupa 2018 04.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q272153": {
+   "label": "Sigiriya",
+   "description": "ancient rock fortress near Dambulla, Sri Lanka.",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q854",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       7.9569444444444,
+       80.759722222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q486972",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Sigiriya lion gate 04.JPG",
+      "rank": "normal"
+     },
+     {
+      "v": "Lions Paw, Sigirya.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigiriya, Wolkenmädchen 3.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "SriLanka Sigiriya gardens.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigiriya garden from top.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigiriya moat and garden2.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigiriya WaterGardens.JPG",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigiriya monks cell1.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigiriya monks cell2.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigriya lions mouth.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sigiriya summit ruins2.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Beauty of Sigiriya by Binuka.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Sigiriya Luftbild (29781064900).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2209873": {
+   "label": "Paro Taktsang",
+   "description": "temple complex in Bhutan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q917",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       27.491666666667,
+       89.363333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q54074585",
+      "rank": "normal"
+     },
+     {
+      "v": "Q5393308",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1692-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Paro Taktsang, Bhutan (edited).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q12495": {
+   "label": "Burj Khalifa",
+   "description": "skyscraper in Dubai, United Arab Emirates",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q878",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       25.197222222222223,
+       55.274166666666666
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q11303",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+2004-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+2010-01-04T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Dubai skyline 2015 (crop).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q695604": {
+   "label": "Sheikh Zayed Mosque",
+   "description": "grand mosque in Abu Dhabi",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q878",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       24.412,
+       54.474
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q32815",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+2007-12-20T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+2007-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Sheikh Zayed Mosque Silhouette.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q5788": {
+   "label": "Petra",
+   "description": "ancient rock-cut historical city in Jordan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q810",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       30.328888888889,
+       35.440277777778
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       30.328611,
+       35.441944
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q15661340",
+      "rank": "normal"
+     },
+     {
+      "v": "Q515",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-0800-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "The Treasury, Petra, Jordan5.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q40729": {
+   "label": "Wadi Rum",
+   "description": "valley in southern Jordan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q810",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       29.5765,
+       35.419927777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q187971",
+      "rank": "normal"
+     },
+     {
+      "v": "Q473972",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Wadi Rum in December.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q105893254": {
+   "label": "Pamukkale",
+   "description": "hot springs in Turkey",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q43",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       37.9236,
+       29.1223
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q177380",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Pamukkale, Denizli 2026 68.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q129072": {
+   "label": "Persepolis",
+   "description": "ancient city in Marvdasht County, Iranian national heritage site and World heritage site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q794",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q389688",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "-0510-00-00T00:00:00Z",
+         "precision": 8
+        }
+       ],
+       "P582": [
+        {
+         "time": "-0330-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q13405524",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "-0330-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ],
+       "P582": [
+        {
+         "time": "-0300-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       29.935,
+       52.89
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q15661340",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2065736",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-0510-00-00T00:00:00Z",
+       "precision": 8
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Gate of All Nations, Persepolis.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q643098": {
+   "label": "Shah Mosque",
+   "description": "mosque in Isfahan, Iranian national heritage site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q794",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       32.654805555555555,
+       51.67777777777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q32815",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2065736",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1611-04-29T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1630-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Naghsh-e-jahan masjed-e-shah esfahan.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1373583": {
+   "label": "Registan",
+   "description": "historical center of Samarkand, Uzbekistan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q265",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       39.654722222222,
+       66.975555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q811430",
+      "rank": "normal"
+     },
+     {
+      "v": "Q174782",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1497375",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1417-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Registan 01.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q72303": {
+   "label": "Mount Ararat",
+   "description": "highest peak in Turkey",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q43",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       39.70194444444444,
+       44.29833333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q8072",
+      "rank": "normal"
+     },
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q48",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "NEO ararat big.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Mount Ararat and the Araratian plain (cropped).jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 2399 Mount Ararat, Turkey.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q178835": {
+   "label": "Baalbek",
+   "description": "city in Baalbek-Hermel, Lebanon",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q822",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       34.006111111111,
+       36.208611111111
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       34.015363,
+       36.200556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q515",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q15661340",
+      "rank": "normal",
+      "q": {
+       "P582": [
+        null
+       ]
+      }
+     }
+    ],
+    "P18": [
+     {
+      "v": "Temple of Bacchus.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q330872": {
+   "label": "Badshahi Mosque",
+   "description": "mosque in Lahore, Pakistan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q843",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       31.588055555555556,
+       74.30944444444444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q32815",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1671-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Badshahi Mosque July 1 2005 pic32 by Ali Imran (1).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q5513": {
+   "label": "Lake Baikal",
+   "description": "freshwater rift lake in southern Siberia, Russia; the greatest mountain lake in Asia and the most voluminous freshwater lake in the world",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q159",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q34266",
+      "rank": "normal",
+      "q": {
+       "P582": [
+        {
+         "time": "+1917-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q15180",
+      "rank": "normal",
+      "q": {
+       "P582": [
+        {
+         "time": "+1991-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       53.30277778,
+       108.00472222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q23397",
+      "rank": "normal"
+     },
+     {
+      "v": "Q9259",
+      "rank": "normal"
+     },
+     {
+      "v": "Q137690958",
+      "rank": "normal"
+     },
+     {
+      "v": "Q3505788",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Olkhon Island and Lake Baikal.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q83101": {
+   "label": "Taipei 101",
+   "description": "skyscraper located in Xinyi District, Taipei, Taiwan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q865",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       25.03361111111111,
+       121.56472222222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q11303",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+2005-12-31T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+2005-11-14T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Taipei 101 from Xiangshan 20250731.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q29317": {
+   "label": "Bagan",
+   "description": "ancient city in Myanmar",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q836",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       21.1725,
+       94.86
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q7830262",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q15661340",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0200-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Old Bagan, Myanmar, Bagan plains at sunset.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Bagan, Myanmar, Htilominlo Temple and other Buddhist stupas in Bagan plain.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q804210": {
+   "label": "Bayterek",
+   "description": "monument in Astana, Kazachstan",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q232",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       51.12833333333333,
+       71.43055555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q4989906",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1440300",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Night at Esil District, Astana (P1190721).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q60967": {
+   "label": "Mount Kinabalu",
+   "description": "mountain in Malaysia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q833",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       6.075,
+       116.5586111111111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q6617741",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Kinabalu Sabah Borneo Kampong Kundasang 2.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q243": {
+   "label": "Eiffel Tower",
+   "description": "tower located on the Champ de Mars in Paris, France",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q142",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       48.858296,
+       2.294479
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1440476",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1440300",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1887-01-28T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal",
+      "q": {
+       "P518": [
+        "Q27136782"
+       ]
+      }
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1889-03-31T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     },
+     {
+      "v": {
+       "time": "+1889-05-15T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Tour Eiffel Wikimedia Commons.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q20892": {
+   "label": "Le Mont Saint-Michel",
+   "description": "French commune in the Manche department",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q142",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       48.635833333333,
+       -1.5102777777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q484170",
+      "rank": "normal"
+     },
+     {
+      "v": "Q64953083",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mont St Michel 3, Brittany, France - July 2011.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q10285": {
+   "label": "Colosseum",
+   "description": "ancient Roman amphitheatre, a landmark of Rome, Italy",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q38",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       41.890277777778,
+       12.492222222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q7362268",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q483110",
+      "rank": "normal"
+     },
+     {
+      "v": "Q112132548",
+      "rank": "normal"
+     },
+     {
+      "v": "Q3867560",
+      "rank": "normal"
+     },
+     {
+      "v": "Q112132522",
+      "rank": "normal"
+     },
+     {
+      "v": "Q124830411",
+      "rank": "normal"
+     },
+     {
+      "v": "Q133444874",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+0082-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+0081-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Colosseo 2020.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Panoramic photograph of interior of Colosseum.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q39054": {
+   "label": "Leaning Tower of Pisa",
+   "description": "cathedral bell tower in Pisa, Italy",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q38",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       43.72301,
+       10.396624
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q570116",
+      "rank": "normal"
+     },
+     {
+      "v": "Q33506",
+      "rank": "normal"
+     },
+     {
+      "v": "Q72926449",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q797765",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q92755865",
+      "rank": "normal"
+     },
+     {
+      "v": "Q127038589",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1173-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1373-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Campanile Dôme - Pise (IT52) - 2022-08-31 - 20.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q12512": {
+   "label": "St. Peter's Basilica",
+   "description": "church in Vatican City",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q237",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       41.90222222222222,
+       12.453416666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q124936",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2713379",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     },
+     {
+      "v": "Q317557",
+      "rank": "normal"
+     },
+     {
+      "v": "Q15487029",
+      "rank": "normal",
+      "q": {
+       "P582": [
+        {
+         "time": "+1964-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1506-04-18T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Basilica di San Pietro in Vaticano September 2015-1a.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q48435": {
+   "label": "Basilica and Expiatory Church of the Holy Family",
+   "description": "basilica under construction since 1882 in Barcelona, Spain",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q29",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       41.40369,
+       2.17433
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q120560",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+2010-11-07T00:00:00Z",
+         "precision": 11
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q133747929",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1882-03-19T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "SF maig 2026.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q47476": {
+   "label": "Alhambra",
+   "description": "palace and fortress complex in Granada, Andalusia, Spain",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q29",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       37.17634,
+       -3.58821
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1497375",
+      "rank": "normal"
+     },
+     {
+      "v": "Q16560",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+0800-01-01T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q16560",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+1499-01-01T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q1107656",
+      "rank": "normal"
+     },
+     {
+      "v": "Q61760621",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1239-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Alhambra detail.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q10288": {
+   "label": "Parthenon",
+   "description": "former temple of Athena on the Athenian Acropolis, Greece",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q41",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       37.971527,
+       23.726601
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q267596",
+      "rank": "normal"
+     },
+     {
+      "v": "Q93342462",
+      "rank": "normal"
+     },
+     {
+      "v": "Q96352513",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-0500-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "The Parthenon in Athens.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q39671": {
+   "label": "Stonehenge",
+   "description": "Neolithic henge monument in Amesbury, Wiltshire, England, UK",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q145",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       51.17888888888889,
+       -1.826111111111111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q935773",
+      "rank": "normal"
+     },
+     {
+      "v": "Q4989906",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q16735822",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1035294",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-3000-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal",
+      "q": {
+       "P1480": [
+        "Q5727902"
+       ]
+      }
+     },
+     {
+      "v": {
+       "time": "-1848-00-00T00:00:00Z",
+       "precision": 7
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Stonehenge Total.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q41225": {
+   "label": "Big Ben",
+   "description": "tower of the Palace of Westminster, London containing the bell Big Ben",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q145",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       51.50067,
+       -0.12457
+      ],
+      "rank": "preferred"
+     },
+     {
+      "v": [
+       51.50067,
+       -0.12449
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q3139104",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1128637",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1480017",
+      "rank": "normal"
+     },
+     {
+      "v": "Q391414",
+      "rank": "normal"
+     },
+     {
+      "v": "Q797765",
+      "rank": "normal"
+     },
+     {
+      "v": "Q853854",
+      "rank": "normal"
+     },
+     {
+      "v": "Q815448",
+      "rank": "normal"
+     },
+     {
+      "v": "Q5191724",
+      "rank": "normal"
+     },
+     {
+      "v": "Q138800422",
+      "rank": "normal"
+     },
+     {
+      "v": "Q101401",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1843-09-28T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     },
+     {
+      "v": {
+       "time": "+1858-04-10T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Elizabeth Tower and the north front of the Palace of Westminster, London.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q83125": {
+   "label": "Tower Bridge",
+   "description": "bascule and suspension bridge in London",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q145",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       51.50555555555555,
+       -0.07527777777777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q911663",
+      "rank": "normal"
+     },
+     {
+      "v": "Q12042110",
+      "rank": "normal"
+     },
+     {
+      "v": "Q537127",
+      "rank": "normal"
+     },
+     {
+      "v": "Q12570",
+      "rank": "normal"
+     },
+     {
+      "v": "Q132775289",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1886-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1894-06-30T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "London - London Tower Bridge - 140806 171049.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q4152": {
+   "label": "Neuschwanstein Castle",
+   "description": "castle in Bavaria, Germany, Europe",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q183",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       47.5574885428434,
+       10.74944180794
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q16560",
+      "rank": "normal"
+     },
+     {
+      "v": "Q23413",
+      "rank": "normal"
+     },
+     {
+      "v": "Q751876",
+      "rank": "normal"
+     },
+     {
+      "v": "Q33506",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1869-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Neuschwanstein Castle 2024-02.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Neuschwanstein Castle entrance gate.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q82425": {
+   "label": "Brandenburg Gate",
+   "description": "triumphal arch in Berlin, Germany",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q183",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q16957",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1206012",
+      "rank": "normal"
+     },
+     {
+      "v": "Q27306",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       52.516272222222,
+       13.377722222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q143912",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     },
+     {
+      "v": "Q757292",
+      "rank": "normal",
+      "q": {
+       "P582": [
+        {
+         "time": "+1990-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q1128637",
+      "rank": "normal"
+     },
+     {
+      "v": "Q82117",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1791-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1791-08-06T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Brandenburger Tor morgens.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Berlin-Brandenburg Gate overview.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q4176": {
+   "label": "Cologne Cathedral",
+   "description": "Roman-Catholic cathedral in Cologne, Germany",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q183",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       50.94138888888889,
+       6.958333333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q56242215",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1248-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1880-10-15T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Kölner Dom von Osten.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q129846": {
+   "label": "St. Basil's Cathedral",
+   "description": "church in Moscow",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q159",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q34266",
+      "rank": "normal"
+     },
+     {
+      "v": "Q15180",
+      "rank": "normal"
+     },
+     {
+      "v": "Q186096",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       55.7525,
+       37.62305555555555
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q2031836",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1555-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "00 0568 Saint Basil's Cathedral - Moscow.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q204871": {
+   "label": "Charles Bridge",
+   "description": "bridge in Prague, Czech Republic",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q213",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q33946",
+      "rank": "normal"
+     },
+     {
+      "v": "Q28513",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       50.086388888889,
+       14.411944444444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q3397526",
+      "rank": "normal"
+     },
+     {
+      "v": "Q158438",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1068842",
+      "rank": "normal"
+     },
+     {
+      "v": "Q79007",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1357-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1402-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Prague 07-2016 View from Petrinska Tower img2.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q180901": {
+   "label": "Atomium",
+   "description": "architectural landmark originally constructed as the centerpiece for Expo 58 in Brussels, Belgium",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q31",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       50.895,
+       4.3413888888889
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1955-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1958-04-17T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Laeken Atomium 06.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q16990": {
+   "label": "Mount Etna",
+   "description": "active stratovolcano on the east coast of Sicily, Italy",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q38",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       37.7508345148182,
+       14.993220288812111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     },
+     {
+      "v": "Q107539372",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-300000-00-00T00:00:00Z",
+       "precision": 4
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "View of Mount Etna from Reggio Calabria - Italy - 10 Feb. 2017 - (1).jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "EtnaAvió.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q106187": {
+   "label": "Giant's Causeway",
+   "description": "rock formation on the Antrim coast of Northern Ireland",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q145",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       55.240833333333,
+       -6.5116666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q271669",
+      "rank": "normal"
+     },
+     {
+      "v": "Q6633995",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Giants Causeway 1b.JPG",
+      "rank": "normal"
+     },
+     {
+      "v": "Giant's Causeway (36834542085).jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Meyers Universum Band 02 02.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Giants causeway closeup.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q239477": {
+   "label": "Cliffs of Moher",
+   "description": "cliffs in Western Ireland, on the Atlantic shore",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q27",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       52.936111111111,
+       -9.4708333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q107679",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Ireland Cliffs of Moher BW 2025-09-11 14-27-51.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q189849": {
+   "label": "Plitvice Lakes National Park",
+   "description": "national park of Croatia, a UNESCO World Heritage Site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q224",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       44.880445,
+       15.616035
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q20537078",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q473972",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1949-04-08T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "preferred"
+     },
+     {
+      "v": {
+       "time": "+1949-01-01T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Plitvice Lakes National Park (2).jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "Duck on the lake.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Plitvicer Seen 1.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q3125051": {
+   "label": "Meteora",
+   "description": "rock formation with cluster of Greek Orthodox monasteries",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q41",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       39.7125,
+       21.626666666666665
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q87351459",
+      "rank": "normal"
+     },
+     {
+      "v": "Q631305",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "00 0541 Kloster Agía Triáda (Meteora) - Griechenland.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "2017-4 ΜΕΤΕΩΡΑ 13 Ι.Μ.Ρουσάνου (Αγ.Βαρβάρας).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q193989": {
+   "label": "Geirangerfjord",
+   "description": "fjord in Norway",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q20",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       62.094444444444,
+       7.0805555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q45776",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Fiordo de Geiranger desde Flydalsjuvet, Noruega, 2019-09-07, DD 61.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Fiordo de Geiranger, Noruega, 2019-09-07, DD 45-48 PAN.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 2269 Geiranger - Norway.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Geirangerfjord waterfall.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q746223": {
+   "label": "Preikestolen",
+   "description": "steep cliff in Norway",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q20",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       58.98666,
+       6.18748
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1245089",
+      "rank": "normal"
+     },
+     {
+      "v": "Q107679",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Preikestolen Norge.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q38519": {
+   "label": "Gullfoss",
+   "description": "waterfall in Iceland",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q189",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       64.326111111111,
+       -20.121111111111
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       64.3273300418,
+       -20.1193997314
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q34038",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "GullfossOverview.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q215003": {
+   "label": "Belém Tower",
+   "description": "fortified tower located in the civil parish of Santa Maria de Belém in the municipality of Lisbon, Portugal",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q45",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       38.691388888889,
+       -9.2158333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1785071",
+      "rank": "normal"
+     },
+     {
+      "v": "Q81917",
+      "rank": "normal"
+     },
+     {
+      "v": "Q210272",
+      "rank": "normal"
+     },
+     {
+      "v": "Q811165",
+      "rank": "normal"
+     },
+     {
+      "v": "Q570116",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1515-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Belem Tower - April 2019 (2).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q11819": {
+   "label": "Hungarian Parliament Building",
+   "description": "Neo-Gothic government building and landmark in Budapest, Hungary",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q28",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       47.50694444444444,
+       19.045555555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q7138926",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+2000-00-00T00:00:00Z",
+       "precision": 6
+      },
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+1885-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ],
+       "P582": [
+        {
+         "time": "+1904-00-00T00:00:00Z",
+         "precision": 9
+        }
+       ]
+      }
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1904-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Budapest-Parliament-0001.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q390275": {
+   "label": "Bran Castle",
+   "description": "Medieval castle in Braşov county, Romania",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q218",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       45.515,
+       25.3671
+      ],
+      "rank": "preferred"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q23413",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1289-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Bran Castle TB1.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q214924": {
+   "label": "Rhine Falls",
+   "description": "waterfall on the Rhein River in Switzerland",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q39",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       47.67722222222222,
+       8.615833333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q34038",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Chutes du Rhin - Octobre 2021.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q9202": {
+   "label": "Statue of Liberty",
+   "description": "monument in New York",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       40.689209166667,
+       -74.044425277778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q43113623",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1440300",
+      "rank": "normal"
+     },
+     {
+      "v": "Q179700",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1779653",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1886-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Statue of Liberty and a sightseeing boat, Liberty Island, New York.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q44440": {
+   "label": "Golden Gate Bridge",
+   "description": "suspension bridge on the San Francisco Bay",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       37.819722222222,
+       -122.47861111111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q12570",
+      "rank": "normal"
+     },
+     {
+      "v": "Q12042110",
+      "rank": "normal"
+     },
+     {
+      "v": "Q7814330",
+      "rank": "normal"
+     },
+     {
+      "v": "Q537127",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1937-05-27T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1937-05-28T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "GoldenGateBridge-001.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q118841": {
+   "label": "Grand Canyon",
+   "description": "steep-sided canyon carved by the Colorado River in Arizona, United States",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       36.0975,
+       -112.09527777777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q150784",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Grand Canyon view from Pima Point 2010.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "GrandCanyon.NASA.2014.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Grand Canyon from air.JPG",
+      "rank": "normal"
+     },
+     {
+      "v": "00 5870 Grand Canyon of the river Colorado in Arizona, USA.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q83497": {
+   "label": "Mount Rushmore",
+   "description": "mountain in South Dakota featuring a sculpture of four US presidents",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       43.87888888888889,
+       -103.45916666666666
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mount Rushmore detail view (100MP).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q9188": {
+   "label": "Empire State Building",
+   "description": "skyscraper located in Midtown Manhattan, New York City, USA",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       40.748333333333335,
+       -73.98555555555555
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1021645",
+      "rank": "normal"
+     },
+     {
+      "v": "Q11303",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1931-05-08T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1931-05-01T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Empire State Building (aerial view).jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Empire State Building from Rockefeller Center (51197886181) (cropped).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q858794": {
+   "label": "Old Faithful",
+   "description": "geyser in Yellowstone National Park in Wyoming, United States",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       44.46047222222222,
+       -110.82813888888889
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q83471",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Yellowstone National Park (WY, USA), Old Faithful Geyser -- 2022 -- 2599.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q925252": {
+   "label": "Half Dome",
+   "description": "granite dome in Yosemite National Park, California",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       37.746,
+       -119.53316666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1640361",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2459045",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q828",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Yosemite 20 bg 090404.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q306201": {
+   "label": "Devils Tower",
+   "description": "mountain near Moorcroft, Wyoming, United States",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       44.590277777778,
+       -104.71527777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q522464",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1906-09-24T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Flaganddevilstower.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2300616": {
+   "label": "Delicate Arch",
+   "description": "freestanding natural arch in Arches National Park in Grand County, Utah, United States",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       38.743611111111,
+       -109.49944444444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q954501",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q49",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Delicate Arch in Arches National Park 3.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 406 Arches National Park (Utah, USA).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2027162": {
+   "label": "Gateway Arch",
+   "description": "monument in St. Louis, Missouri",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       38.62461111111111,
+       -90.18497222222223
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     },
+     {
+      "v": "Q22698",
+      "rank": "normal"
+     },
+     {
+      "v": "Q4989906",
+      "rank": "normal"
+     },
+     {
+      "v": "Q12277",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1965-10-28T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     },
+     {
+      "v": {
+       "time": "+1968-05-25T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1967-06-10T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal",
+      "q": {
+       "P518": [
+        "Q18411786"
+       ]
+      }
+     }
+    ],
+    "P18": [
+     {
+      "v": "St Louis Gateway Arch.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q5317": {
+   "label": "Space Needle",
+   "description": "observation tower in Seattle, Washington, United States",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       47.6204,
+       -122.3491
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1440300",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1961-04-17T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1962-04-21T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Seattle, October 6, 2023 - 60.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q130018": {
+   "label": null,
+   "description": "highest mountain in North America, located in Alaska",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       63.06916666666667,
+       -151.0063888888889
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       63.06910277777778,
+       -151.00626111111112
+      ],
+      "rank": "preferred"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Wonder Lake and Denali.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1422831": {
+   "label": "Grand Prismatic Spring",
+   "description": "natural hot spring within Yellowstone National Park",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q30",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       44.525,
+       -110.83805555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q177380",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q134883": {
+   "label": "CN Tower",
+   "description": "communications and observation tower in Toronto, Canada",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q16",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       43.642752777778,
+       -79.387147222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q11166728",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1440300",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1976-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1976-06-26T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "CN Tower from Puente de Luz, Toronto, Ontario, 2025-08-25 01.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q745964": {
+   "label": "Château Frontenac",
+   "description": "grand hotel in Quebec City",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q16",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       46.81182,
+       -71.20538
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q27686",
+      "rank": "normal"
+     },
+     {
+      "v": "Q63099748",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1893-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1893-12-18T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Château Frontenac01.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Fairmont Le Château Frontenac, Quebec 13.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1072342": {
+   "label": "Moraine Lake",
+   "description": "lake in Alberta, Canada",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q16",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       51.3225,
+       -116.18555555555555
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q23397",
+      "rank": "normal"
+     },
+     {
+      "v": "Q211302",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Moraine Lake 17092005.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1128327": {
+   "label": "Temple of Kukulcan",
+   "description": "pyramid in Chichén Itzá",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q96",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       20.68288888888889,
+       -88.56861111111111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q12516",
+      "rank": "normal"
+     },
+     {
+      "v": "Q44539",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Chichen Itza 3.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q29238": {
+   "label": "Pyramid of the Sun",
+   "description": "Mesoamerica structure in Teotihuacan, first built in 100 CE",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q96",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       19.6925,
+       -98.8438
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q44539",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q12516",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "2020-02-11 Teotihuacan la Avenida de los Muertos y la Pirámide del Sol.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2185890": {
+   "label": "Tikal Temple I",
+   "description": "ancient site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q774",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       17.2220533,
+       -89.6230584
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       17.2221,
+       -89.6231
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q44539",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2270185",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Tikal Temple1 2006 08 11.JPG",
+      "rank": "normal"
+     },
+     {
+      "v": "Tikal temple jaguar.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q641588": {
+   "label": "Arenal Volcano",
+   "description": "Active stratovolcano in Alajuela Province, Costa Rica",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q800",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       10.4625,
+       -84.70333333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q27611",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Arenal volcano (70785p) (cropped).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q86486": {
+   "label": "Great Blue Hole",
+   "description": "submarine sinkhole off the coast of Belize",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q242",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       17.31556,
+       -87.53444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q7180402",
+      "rank": "normal"
+     },
+     {
+      "v": "Q23790",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Great Blue Hole.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q639487": {
+   "label": "Pitons",
+   "description": "volcanic spires in Saint Lucia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q760",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       13.807083333333,
+       -61.070361111111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q653139",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q828",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Pitonpair.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1352908": {
+   "label": "El Capitolio",
+   "description": "former seat of the Cuban legislature and current seat of National Assembly of People's Power",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q241",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       23.13528,
+       -82.35944
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q7138926",
+      "rank": "normal"
+     },
+     {
+      "v": "Q3284499",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1929-05-20T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1927-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Capitolio full.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Havana - Capitol inauguration.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q206194": {
+   "label": "Citadelle Laferrière",
+   "description": "large mountaintop fortress in northern Haiti",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q790",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       19.573611111111,
+       -72.243888888889
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q88291",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1785071",
+      "rank": "normal"
+     },
+     {
+      "v": "Q9259",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1820-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Citadelle Laferrière Aerial View.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q181157": {
+   "label": "Popocatépetl",
+   "description": "North America volcano",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q96",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       19.023386,
+       -98.623434
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q49",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mexico-Popocatepetl.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q7350": {
+   "label": "Panama Canal",
+   "description": "large canal in Panama",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q804",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       9.12,
+       -79.75
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q949819",
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1914-08-15T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Panama Canal Gatun Locks.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Panama Canal, Agua Clara locks, Control tower (Torre de control).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q676203": {
+   "label": "Machu Picchu",
+   "description": "15th-century Inca citadel in the Peruvian Andes and UNESCO World Heritage Site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q419",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -13.163333333333334,
+       -72.54555555555555
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q15661340",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q9259",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1450-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal",
+      "q": {
+       "P1480": [
+        "Q5727902"
+       ]
+      }
+     }
+    ],
+    "P18": [
+     {
+      "v": "80 - Machu Picchu - Juin 2009 - edit.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Machu Picchu, 2023 (012).jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "00 1589 Machu Picchu - Peru.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 1596 Ruinenstadt Machu Picchu.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q79961": {
+   "label": "Christ the Redeemer",
+   "description": "colossal statue of Jesus in Rio de Janeiro, Brazil",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q155",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -22.951915648887244,
+       -43.21046412278801
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q29168169",
+      "rank": "normal"
+     },
+     {
+      "v": "Q15135589",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+2006-10-12T00:00:00Z",
+         "precision": 11
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q1779653",
+      "rank": "normal"
+     },
+     {
+      "v": "Q179700",
+      "rank": "normal"
+     },
+     {
+      "v": "Q4989906",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1920-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1931-10-12T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Christ the Redeemer - Cristo Redentor.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q210722": {
+   "label": "Sugarloaf Mountain",
+   "description": "peak situated in Rio de Janeiro, Brazil",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q155",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -22.949444444444445,
+       -43.156666666666666
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1139493",
+      "rank": "normal"
+     },
+     {
+      "v": "Q107679",
+      "rank": "normal"
+     },
+     {
+      "v": "Q386426",
+      "rank": "normal"
+     },
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Pão de Açucar - Sugarloaf Mountain - Zuckerhut - 2022.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Last Sunlight on the Sugarloaf Mountain.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Vista do Morro Dona Marta.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q80299": {
+   "label": "Angel Falls",
+   "description": "waterfall in Venezuela; highest uninterrupted waterfall in the world",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q717",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       5.970055555555556,
+       -62.53622222222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q34038",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "SaltoAngel4.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q367943": {
+   "label": "Perito Moreno Glacier",
+   "description": "glacier located in the Patagonian Andes",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q414",
+      "rank": "normal"
+     },
+     {
+      "v": "Q298",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -50.49321938689202,
+       -73.12798244937426
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q35666",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Perito Moreno Glacier 2023.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q930366": {
+   "label": "Cordillera del Paine",
+   "description": "mountain",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q298",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -51,
+       -73
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1061151",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Cuernos del Paine 2011.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q3448354": {
+   "label": "Ahu Tongariki",
+   "description": "ahu on Easter Island",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q298",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -27.125833333333,
+       -109.27694444444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q402996",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Easter Island Ahu (2006).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q76122": {
+   "label": "Salar de Uyuni",
+   "description": "salt flat in Bolivia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q750",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -20.33333,
+       -67.7
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q935277",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1367330",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Salar Uyuni au01.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Piles of Salt Salar de Uyuni Bolivia Luca Galuzzi 2006 a.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Salar de Uyuni - panoramio (10).jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q181476": {
+   "label": "Cotopaxi volcano",
+   "description": "Highest active volcano in the world",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q736",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -0.68055555555556,
+       -78.437777777778
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       -0.68917,
+       -78.42889
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Vólcan Cotopaxi.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q39739": {
+   "label": null,
+   "description": "highest mountain in both the Southern and the Western Hemispheres (6967 m)",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q414",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -32.653055555555554,
+       -70.01166666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Aconcagua2016.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2620036": {
+   "label": "Nazca Lines",
+   "description": "large geoglyphs made in the soil of the Nazca Desert in Peru",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q419",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -14.6975,
+       -75.135
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q45791",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "-0200-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 58.JPG",
+      "rank": "normal"
+     },
+     {
+      "v": "Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 44.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q201720": {
+   "label": "Cathedral of Brasília",
+   "description": "Catholic church in Brasília, Brazil",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q155",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -15.798333333333,
+       -47.875555555556
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q56242215",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1970-05-31T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1970-05-31T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Brasilia Catedral 08 2005 03.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q28025526": {
+   "label": "Vinicunca",
+   "description": "rainbow mountain of Peru, touristic venue",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q419",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -13.869534,
+       -71.30296
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Montana de colores Cusco (Vinicunca) y Valle Rojo por Inka Time.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q38120": {
+   "label": "Kaieteur Falls",
+   "description": "waterfall on the Potaro River in Guyana",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q734",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       5.1781111111111,
+       -59.482277777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q34038",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "GuyanaKaieteurFalls2004.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q2227269": {
+   "label": "Las Lajas Sanctuary",
+   "description": "national monument of Colombia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q739",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       0.8055,
+       -77.586
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q16970",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1949-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Santuario de Las Lajas, Ipiales, Colombia, 2015-07-21, DD 21-23 HDR.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1434444": {
+   "label": "Amazon Theatre",
+   "description": "Opera house in Manaus, Brazil",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q155",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -3.1302777777778,
+       -60.023333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q153562",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1081138",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1896-12-31T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1896-01-01T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Teatro Amazonas Atualmente 01.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q647777": {
+   "label": "Lençóis Maranhenses National Park",
+   "description": "national park in northeastern Brazil, known for its rolling dunes and fresh water lagoons",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q155",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -2.4833333333333334,
+       -43.13333333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q46169",
+      "rank": "normal"
+     },
+     {
+      "v": "Q9259",
+      "rank": "normal"
+     },
+     {
+      "v": "Q386426",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1981-06-02T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Lençóis Maranhenses 2018.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q831389": {
+   "label": "Obelisco de Buenos Aires",
+   "description": "Iconic historical monument in Buenos Aires, Argentina",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q414",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -34.60376,
+       -58.38162
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q170980",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1936-02-02T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal",
+      "q": {
+       "P518": [
+        "Q811979"
+       ]
+      }
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1936-05-23T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "ObeliscoBA2015.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q828336": {
+   "label": "Saqsaywaman",
+   "description": "archaeological site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q419",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -13.507778,
+       -71.982222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Sacsayhuaman Inca.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sacsayhuamán, Cusco, Perú, 2015-07-31, DD 27.JPG",
+      "rank": "preferred"
+     },
+     {
+      "v": "Sacsayhuamán walls.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "009 1568 Sacsayhuamán - Peru.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q91110": {
+   "label": "Castillo de San Felipe de Barajas",
+   "description": "castle in Colombia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q739",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       10.42222,
+       -75.53806
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q23413",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1536-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Panorama Castillo San Felipe de Barajas CTG 11 2019 2864.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Colombia, Cartagena, Castillo de San Felipe de Barajas.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q45178": {
+   "label": "Sydney Opera House",
+   "description": "multi-venue performing arts centre in Sydney, New South Wales, Australia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q408",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -33.857058,
+       151.214897
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q153562",
+      "rank": "normal"
+     },
+     {
+      "v": "Q2319498",
+      "rank": "normal"
+     },
+     {
+      "v": "Q38048707",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1973-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1973-10-20T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "00 1375 Sydney Opera House (Australia).jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sydney Opera House Sails.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  },
+  "Q54495": {
+   "label": "Sydney Harbour Bridge",
+   "description": "bridge crossing Sydney Harbour in Australia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q408",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -33.852232,
+       151.210684
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q5592057",
+      "rank": "normal"
+     },
+     {
+      "v": "Q12042110",
+      "rank": "normal"
+     },
+     {
+      "v": "Q6636777",
+      "rank": "normal"
+     },
+     {
+      "v": "Q7814330",
+      "rank": "normal"
+     },
+     {
+      "v": "Q38048707",
+      "rank": "normal"
+     },
+     {
+      "v": "Q18615527",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1932-03-19T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1932-03-19T00:00:00Z",
+       "precision": 11
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "SydneyHarbourBridge1 gobeirne.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Sydney harbour bridge new south wales.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q33910": {
+   "label": "Uluru",
+   "description": "large sandstone isolated mount in Australia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q408",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -25.345,
+       131.0361111111111
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1139493",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Sunset at Uluru on July 30, 2005.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q475623": {
+   "label": "The Twelve Apostles",
+   "description": "island group in Australia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q408",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -38.64055556,
+       143.04944444
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q1402592",
+      "rank": "normal"
+     },
+     {
+      "v": "Q46831",
+      "rank": "normal"
+     },
+     {
+      "v": "Q93465857",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "12 Apostles Victoria Sunset.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q7343": {
+   "label": "Great Barrier Reef",
+   "description": "over 2300 km long coral reef off Australia's northeast coast, UNESCO World Heritage Site",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q408",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -16.4,
+       145.8
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q11292",
+      "rank": "preferred"
+     },
+     {
+      "v": "Q38048753",
+      "rank": "normal"
+     },
+     {
+      "v": "Q570116",
+      "rank": "normal"
+     },
+     {
+      "v": "Q9259",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "GreatBarrierReef-EO.JPG",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q187197": {
+   "label": "Milford Sound / Piopiotahi",
+   "description": "fiord in the southwest of New Zealand's South Island",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q664",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -44.61666666666667,
+       167.86666666666667
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q45776",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "MilfordSound.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 1371 New Zealand - Milford Sound.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "00 1373 Milford Sound -New Zealand.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q5059": {
+   "label": "Aoraki / Mount Cook",
+   "description": "mountain in the Southern Alps of New Zealand",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q664",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -43.595,
+       170.14194444444445
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q13222531",
+      "rank": "normal"
+     },
+     {
+      "v": "Q54050",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q55643",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Aoraki - Mt Cook, Aoraki - Mount Cook National Park, New Zealand.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 1286 New Zealand Alps - Mount Cook (Māori \"Aoraki\").jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 0985 Mount Cook - New Zealand Alps.jpg",
+      "rank": "preferred"
+     },
+     {
+      "v": "00 1814 Mount Cook - NZ Southern Alps.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q722125": {
+   "label": "Sky Tower",
+   "description": "observation and communication tower in Auckland, New Zealand",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q664",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -36.84847222222222,
+       174.76230555555554
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q11166728",
+      "rank": "normal"
+     }
+    ],
+    "P571": [
+     {
+      "v": {
+       "time": "+1997-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P1619": [
+     {
+      "v": {
+       "time": "+1997-00-00T00:00:00Z",
+       "precision": 9
+      },
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Auckland Sky Tower closeup.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q846967": {
+   "label": "Nan Madol",
+   "description": "ruined city of Federated States of Micronesesia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q702",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       6.841944,
+       158.332222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q109607",
+      "rank": "normal"
+     },
+     {
+      "v": "Q839954",
+      "rank": "normal"
+     },
+     {
+      "v": "Q13691",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Nan madol.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1754627": {
+   "label": "Wave Rock",
+   "description": "rock formation in Western Australia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q408",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -32.443888888888885,
+       118.89827777777778
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q631305",
+      "rank": "normal"
+     },
+     {
+      "v": "Q358",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "WaveRock.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q279980": {
+   "label": "Kata Tjuta",
+   "description": "domed rock formation in the Northern Territory of Australia",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q408",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -25.3,
+       130.7593
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Kata Tjuta Australia.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q863914": {
+   "label": "Pōhutu Geyser",
+   "description": "geyser in New Zealand",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q664",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -38.163,
+       176.255
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       -38.1635344,
+       176.2539737
+      ],
+      "rank": "preferred"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q83471",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Pohutu Geyser (39485409944).jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q850051": {
+   "label": "Taranaki Maunga",
+   "description": "stratovolcano in New Zealand",
+   "claims": {
+    "P17": [
+     {
+      "v": "Q664",
+      "rank": "normal"
+     }
+    ],
+    "P625": [
+     {
+      "v": [
+       -39.296388888889,
+       174.06472222222
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q169358",
+      "rank": "normal"
+     },
+     {
+      "v": "Q3778211",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+2017-12-20T00:00:00Z",
+         "precision": 11
+        }
+       ]
+      }
+     },
+     {
+      "v": "Q155076",
+      "rank": "normal",
+      "q": {
+       "P580": [
+        {
+         "time": "+2025-01-30T00:00:00Z",
+         "precision": 11
+        }
+       ]
+      }
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q538",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mount Taranaki or Mount Egmont, New Zealand.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q188982": {
+   "label": "Mount Erebus",
+   "description": "volcano on Ross Island, Antarctica",
+   "claims": {
+    "P625": [
+     {
+      "v": [
+       -77.533333333333,
+       167.28333333333
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q8502",
+      "rank": "normal"
+     },
+     {
+      "v": "Q8072",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q51",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Mt erebus.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q837233": {
+   "label": "Lemaire Channel",
+   "description": "strait off Antarctica",
+   "claims": {
+    "P625": [
+     {
+      "v": [
+       -65.133,
+       -64
+      ],
+      "rank": "normal"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q37901",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q51",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "Lemaire Channel, Antarctica.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 2286 Lemaire Channel (Antarctic Peninsula) - Fesformation.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 2322 Antarctica - Lemaire Channel.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 2291 Lemaire Channel (Antarctica ) - Glaciated rock.jpg",
+      "rank": "normal"
+     }
+    ]
+   }
+  },
+  "Q1045820": {
+   "label": "Deception Island",
+   "description": "Antarctic island",
+   "claims": {
+    "P625": [
+     {
+      "v": [
+       -62.976944444444,
+       -60.65
+      ],
+      "rank": "normal"
+     },
+     {
+      "v": [
+       -62.95,
+       -60.633
+      ],
+      "rank": "preferred"
+     }
+    ],
+    "P31": [
+     {
+      "v": "Q23442",
+      "rank": "normal"
+     },
+     {
+      "v": "Q1161185",
+      "rank": "normal"
+     }
+    ],
+    "P30": [
+     {
+      "v": "Q51",
+      "rank": "normal"
+     }
+    ],
+    "P18": [
+     {
+      "v": "B Deception Island - Whalers Bay.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Deception Island Map.svg",
+      "rank": "normal"
+     },
+     {
+      "v": "00 2440 Antarktis - Deception Island.jpg",
+      "rank": "normal"
+     },
+     {
+      "v": "Deception island.jpg",
+      "rank": "preferred"
+     }
+    ]
+   }
+  }
+ },
+ "labels": {
+  "Q1008": "Ivory Coast",
+  "Q101401": "bell",
+  "Q1016": "Libya",
+  "Q1019": "Madagascar",
+  "Q1021645": "office building",
+  "Q1028": "Morocco",
+  "Q1030": "Namibia",
+  "Q1035294": "henge",
+  "Q1036": "Uganda",
+  "Q1061151": "massif",
+  "Q1068623": "transmitter mast",
+  "Q1068842": "footbridge",
+  "Q107539372": "decipoint",
+  "Q107679": "cliff",
+  "Q1081138": "historic site",
+  "Q1088552": "Catholic church building",
+  "Q109607": "ruins",
+  "Q1107656": "garden",
+  "Q11166728": "television tower",
+  "Q112132522": "historical civil building museum",
+  "Q112132548": "archaeological artifact museum",
+  "Q1128637": "national symbol",
+  "Q11292": "coral reef",
+  "Q11303": "skyscraper",
+  "Q1139493": "inselberg",
+  "Q114": "Kenya",
+  "Q11438310": "taisha",
+  "Q11451876": "Munakata shrine",
+  "Q11482498": "hirayamajiro",
+  "Q115": "Ethiopia",
+  "Q11571545": "isolated peak",
+  "Q11588709": "shintaisan",
+  "Q1161185": "volcanic island",
+  "Q118896406": "twin towers",
+  "Q12042110": "steel bridge",
+  "Q120560": "minor basilica",
+  "Q1206012": "German Reich",
+  "Q12223988": "sphinx statue",
+  "Q12277": "arch",
+  "Q1245089": "promontory",
+  "Q124830411": "Museum of the Italian Ministry of Culture",
+  "Q124936": "major basilica",
+  "Q12516": "pyramid",
+  "Q125316256": "Itsukushima shrine",
+  "Q12544": "Byzantine Empire",
+  "Q12570": "suspension bridge",
+  "Q127038589": "free-standing tower",
+  "Q13222531": "parent peak",
+  "Q1325302": "dormant volcano",
+  "Q132775289": "gothic revival bridge",
+  "Q1330974": "active volcano",
+  "Q133444874": "roman ruins",
+  "Q133747929": "expiatory temple",
+  "Q13405524": "Macedonian Empire",
+  "Q134456340": "cultural heritage of Sleman Regency",
+  "Q134917286": "Shikinaisha",
+  "Q135009132": "Shrines receiving Tsukinami-sai and Niiname-sai offerings",
+  "Q135419779": "Shikinai Supershrine",
+  "Q1367330": "solonchak",
+  "Q13691": "artificial island",
+  "Q137690958": "mountain lake",
+  "Q138800422": "clock bell",
+  "Q1402592": "island group",
+  "Q142": "France",
+  "Q1435771": "gopuram",
+  "Q143912": "triumphal arch",
+  "Q1440300": "observation tower",
+  "Q1440476": "lattice tower",
+  "Q145": "United Kingdom",
+  "Q14545628": "IUCN category II: National Park",
+  "Q148": "People's Republic of China",
+  "Q1480017": "striking clock",
+  "Q1497364": "building complex",
+  "Q1497375": "architectural ensemble",
+  "Q15": "Africa",
+  "Q150784": "canyon",
+  "Q15135589": "pilgrimage site",
+  "Q15180": "Soviet Union",
+  "Q15324": "body of water",
+  "Q153562": "opera house",
+  "Q15487029": "patriarchal basilica",
+  "Q155": "Brazil",
+  "Q155076": "juridical person",
+  "Q15661340": "ancient city",
+  "Q15835": "Japanese garden",
+  "Q158438": "arch bridge",
+  "Q159": "Russia",
+  "Q16": "Canada",
+  "Q162875": "mausoleum",
+  "Q1640361": "climbing area",
+  "Q16560": "palace",
+  "Q16735822": "history museum",
+  "Q169358": "stratovolcano",
+  "Q16957": "East Germany",
+  "Q16970": "church building",
+  "Q17": "Japan",
+  "Q170980": "obelisk",
+  "Q1747689": "Ancient Rome",
+  "Q174782": "square",
+  "Q175582": "Egyptian pyramids",
+  "Q177380": "hot spring",
+  "Q1779653": "colossal statue",
+  "Q1784293": "cordon",
+  "Q1785071": "fort",
+  "Q178743": "stele",
+  "Q179700": "statue",
+  "Q1798641": "communication tower",
+  "Q180987": "stupa",
+  "Q18142": "tower block",
+  "Q183": "Germany",
+  "Q186096": "Tsardom of Russia",
+  "Q18615527": "tram bridge",
+  "Q187971": "wadi",
+  "Q189": "Iceland",
+  "Q190429": "depression",
+  "Q1931855": "monolithic church",
+  "Q20": "Norway",
+  "Q200464": "Portuguese Empire",
+  "Q201705": "Khmer Empire",
+  "Q2031836": "Eastern Orthodox church building",
+  "Q20489083": "national park of Madagascar",
+  "Q20537078": "national park of Croatia",
+  "Q2065736": "cultural property",
+  "Q207326": "summit",
+  "Q210272": "cultural heritage",
+  "Q211302": "glacial lake",
+  "Q213": "Czech Republic",
+  "Q218": "Romania",
+  "Q2202509": "Roman city",
+  "Q224": "Croatia",
+  "Q22698": "park",
+  "Q2270185": "Mesoamerican pyramid",
+  "Q2319498": "architectural landmark",
+  "Q232": "Kazakhstan",
+  "Q23397": "lake",
+  "Q23413": "castle",
+  "Q23442": "island",
+  "Q237": "Vatican City",
+  "Q23790": "natural monument",
+  "Q241": "Cuba",
+  "Q242": "Belize",
+  "Q2429397": "Ancient Carthage",
+  "Q2434238": "heritage",
+  "Q2444884": "Tibet",
+  "Q2459045": "granite dome",
+  "Q252": "Indonesia",
+  "Q258": "South Africa",
+  "Q265": "Uzbekistan",
+  "Q267596": "ancient Greek temple",
+  "Q27": "Ireland",
+  "Q2713379": "papal basilica",
+  "Q271669": "landform",
+  "Q27306": "Kingdom of Prussia",
+  "Q2736554": "Candi",
+  "Q27611": "Central America",
+  "Q27686": "hotel",
+  "Q2772772": "military museum",
+  "Q28": "Hungary",
+  "Q28513": "Austria–Hungary",
+  "Q29": "Spain",
+  "Q29168169": "colossal statue of Jesus",
+  "Q298": "Chile",
+  "Q30": "United States",
+  "Q302646": "inland delta",
+  "Q31": "Belgium",
+  "Q3139104": "cultural icon",
+  "Q317557": "parish church",
+  "Q32815": "mosque",
+  "Q3284499": "capitol building",
+  "Q334": "Singapore",
+  "Q33506": "museum",
+  "Q337986": "gurdwara",
+  "Q3393392": "highest point",
+  "Q33946": "Czechoslovakia",
+  "Q3397526": "stone bridge",
+  "Q34038": "waterfall",
+  "Q34266": "Russian Empire",
+  "Q3505788": "freshwater lake",
+  "Q355304": "watercourse",
+  "Q35666": "glacier",
+  "Q358": "heritage site",
+  "Q3778211": "legal person",
+  "Q37901": "strait",
+  "Q38": "Italy",
+  "Q38048707": "historical cultural heritage site",
+  "Q38048753": "natural cultural heritage site",
+  "Q381885": "tomb",
+  "Q386426": "natural heritage",
+  "Q3867560": "Italian national museum",
+  "Q389688": "Achaemenid Empire",
+  "Q39": "Switzerland",
+  "Q391414": "architectural element",
+  "Q39594": "bay",
+  "Q402996": "ahu",
+  "Q408": "Australia",
+  "Q41": "Greece",
+  "Q414": "Argentina",
+  "Q419": "Peru",
+  "Q424": "Cambodia",
+  "Q427287": "wat",
+  "Q43": "Turkey",
+  "Q43113623": "part of UNESCO World Heritage Site",
+  "Q43197": "river delta",
+  "Q4363262": "smooth-sided pyramid",
+  "Q44539": "temple",
+  "Q45": "Portugal",
+  "Q45776": "fjord",
+  "Q45791": "geoglyph",
+  "Q4588528": "sacred place",
+  "Q46169": "national park",
+  "Q46831": "mountain range",
+  "Q473972": "protected area",
+  "Q48": "Asia",
+  "Q483110": "stadium",
+  "Q48356": "minaret",
+  "Q484170": "commune of France",
+  "Q486972": "human settlement",
+  "Q49": "North America",
+  "Q4989906": "monument",
+  "Q51": "Antarctica",
+  "Q514480": "Inari shrine",
+  "Q515": "city",
+  "Q5191724": "steeple",
+  "Q522464": "laccolith",
+  "Q537127": "road bridge",
+  "Q538": "Insular Oceania",
+  "Q5393308": "Buddhist temple",
+  "Q54050": "hill",
+  "Q54074585": "Tibetan Buddhist monastery",
+  "Q55643": "Oceania",
+  "Q5592057": "through arch bridge",
+  "Q56242215": "Catholic cathedral",
+  "Q570116": "tourist attraction",
+  "Q57831": "fortress",
+  "Q58621988": "temple complex",
+  "Q6043159": "casino hotel",
+  "Q61760621": "group of monuments",
+  "Q63099748": "hotel building",
+  "Q631305": "rock formation",
+  "Q64953083": "car-free place",
+  "Q653139": "volcanic plug",
+  "Q655593": "emporium",
+  "Q66108498": "Wonder of the Ancient World",
+  "Q6617741": "WWF ecoregion",
+  "Q6633995": "columnar basalt",
+  "Q6636777": "road-rail bridge",
+  "Q664": "New Zealand",
+  "Q668": "India",
+  "Q6838244": "Chinese AAAAA-rated tourist attraction",
+  "Q702": "Federated States of Micronesia",
+  "Q7138926": "parliament building",
+  "Q717": "Venezuela",
+  "Q7180402": "blue hole",
+  "Q72926449": "church tower",
+  "Q734": "Guyana",
+  "Q736": "Ecuador",
+  "Q7362268": "Roman amphitheatre",
+  "Q739": "Colombia",
+  "Q750": "Bolivia",
+  "Q751876": "château",
+  "Q757292": "border checkpoint",
+  "Q760": "Saint Lucia",
+  "Q774": "Guatemala",
+  "Q7814330": "toll bridge",
+  "Q7830262": "township of Myanmar",
+  "Q79": "Egypt",
+  "Q790": "Haiti",
+  "Q79007": "street",
+  "Q794": "Iran",
+  "Q797765": "inclined tower",
+  "Q800": "Costa Rica",
+  "Q804": "Panama",
+  "Q8072": "volcano",
+  "Q810": "Jordan",
+  "Q811165": "architectural heritage monument",
+  "Q811430": "fixed construction",
+  "Q811979": "built structure",
+  "Q815448": "belfry",
+  "Q81917": "fortified tower",
+  "Q82117": "city gate",
+  "Q822": "Lebanon",
+  "Q828": "Americas",
+  "Q833": "Malaysia",
+  "Q83471": "geyser",
+  "Q836": "Myanmar",
+  "Q837": "Nepal",
+  "Q839954": "archaeological site",
+  "Q842402": "Hindu temple",
+  "Q843": "Pakistan",
+  "Q845945": "Shinto shrine",
+  "Q8502": "mountain",
+  "Q853854": "clock tower",
+  "Q854": "Sri Lanka",
+  "Q865": "Taiwan",
+  "Q869": "Thailand",
+  "Q87351459": "monastic community",
+  "Q878": "United Arab Emirates",
+  "Q881": "Vietnam",
+  "Q88291": "citadel",
+  "Q884": "South Korea",
+  "Q89691": "ksar",
+  "Q911663": "bascule bridge",
+  "Q912": "Mali",
+  "Q917": "Bhutan",
+  "Q92026": "Japanese castle",
+  "Q924": "Tanzania",
+  "Q9259": "World Heritage Site",
+  "Q92755865": "religious museum",
+  "Q928": "Philippines",
+  "Q93342462": "Ancient Greek archaeological site",
+  "Q93465857": "dodecad",
+  "Q935277": "salt pan",
+  "Q935773": "cromlech",
+  "Q948": "Tunisia",
+  "Q949819": "ship canal",
+  "Q954": "Zimbabwe",
+  "Q954501": "natural arch",
+  "Q96": "Mexico",
+  "Q963": "Botswana",
+  "Q96352513": "religious building ruin"
+ }
+}
