@@ -26,7 +26,7 @@ Suggested decks: **What is it called?** (photo, name), **Where in the world?** (
 | name | the usual English name, from the title of its English Wikipedia article (shortened where the title is long or disambiguated: "Kilimanjaro" for Mount Kilimanjaro, "Big Ben", "Ngorongoro Crater" for the Ngorongoro Conservation Area). The list is `build/landmarks.tsv` | Wikipedia |
 | photo | a photograph of it, at most 560 × 480 pixels, in `media/` | Wikimedia Commons; each file's author and licence are in [`media/credits.tsv`](media/credits.tsv) |
 | country | the country it is in today: Wikidata's *country* (P17) without an end date. Wikidata gives two for the Potala Palace (Tibet and China: China is used) and the Perito Moreno Glacier (Argentina and Chile: it lies in Argentina's Los Glaciares National Park). "People's Republic of China" is written China and "Federated States of Micronesia" Micronesia. The three in Antarctica have no country, and the column is empty for them | Wikidata |
-| continent | the continent its country is in, except Lake Baikal (Asia), St Basil's Cathedral (Europe) and Ahu Tongariki, which is on Easter Island in Polynesia (Oceania, though Chile governs it). Turkey's three (Pamukkale, Mount Ararat) are in Asia; Central America and the Caribbean are counted in North America | the country's continent; written in `build/build.py` |
+| continent | the continent its country is in, except Lake Baikal (Asia), St Basil's Cathedral (Europe) and Ahu Tongariki, which is on Easter Island in Polynesia (Oceania, though Chile governs it). Turkey's two (Pamukkale, Mount Ararat) are in Asia; Central America and the Caribbean are counted in North America | the country's continent; written in `build/build.py` |
 | where it is | a place on the globe, latitude and longitude to 4 decimals: Wikidata's *coordinate location* (P625), the preferred one where there are several | Wikidata |
 | what it is | a tree of kinds (below), chosen for each from Wikidata's *instance of* (P31) and the first sentence of its Wikipedia article. `build/kinds.txt` | Wikidata, Wikipedia |
 | year finished | for built landmarks, the year it was finished, where the sources give one year; negative years are BC (−2560 for the Great Pyramid). Where the sources give only a century, a range of centuries, a city or complex built over a long time, or disagree, it is left empty: 58 of the 97 built landmarks have a year. Every value and every gap, with where it comes from, is in `build/years.tsv` | the article's Wikipedia infobox (completed, completion date, built), Wikidata (inception P571, date of official opening P1619), or the article's text |
@@ -70,8 +70,8 @@ Inari-taisha, the Cliffs of Moher, the Space Needle and the Sky Tower) none of W
 from a Commons search. `build/photos.tsv` names every file and where it was found.
 
 The files were downloaded from Wikimedia Commons and scaled to fit 560 × 480 pixels (about 7 MB in all).
-Their licences: CC BY-SA 4.0 (66), CC BY-SA 3.0 (31, three of them the German port), public domain (16), CC BY 2.0
-(12), CC BY 2.5 (6), CC0 (6), CC BY-SA 2.0 (5, one the Austrian port), CC BY-SA 2.5 (5, one the Dutch port), Free Art
+Their licences: CC BY-SA 4.0 (66), CC BY-SA 3.0 (34, three of them the German port), public domain (16), CC BY 2.0
+(12), CC BY 2.5 (6), CC0 (6), CC BY-SA 2.0 (6, one the Austrian port), CC BY-SA 2.5 (5, one the Dutch port), Free Art
 License (3), CC BY 3.0 (2), CC BY 4.0 (2) and the Korea Open Government Licence Type 1 (1, Gyeongbokgung; attribution
 only). Where a file page names no author, the uploader is credited and marked as such. Author, licence, Commons page and description for every file are in
 [`media/credits.tsv`](media/credits.tsv).
