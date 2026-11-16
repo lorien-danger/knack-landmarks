@@ -1,0 +1,163 @@
+{"id": "great-pyramid-of-giza", "name": "Great Pyramid of Giza", "country": "Egypt", "continent": "Africa", "location": [29.9792, 31.1342], "kind": ["built", "monument", "tomb"], "finished": -2560}
+{"id": "great-sphinx-of-giza", "name": "Great Sphinx of Giza", "country": "Egypt", "continent": "Africa", "location": [29.9753, 31.1377], "kind": ["built", "monument", "statue"]}
+{"id": "abu-simbel", "name": "Abu Simbel", "country": "Egypt", "continent": "Africa", "location": [22.3369, 31.6256], "kind": ["built", "religious", "temple"]}
+{"id": "karnak", "name": "Karnak", "country": "Egypt", "continent": "Africa", "location": [25.7183, 32.6583], "kind": ["built", "religious", "temple"]}
+{"id": "kilimanjaro", "name": "Kilimanjaro", "country": "Tanzania", "continent": "Africa", "location": [-3.0667, 37.3592], "kind": ["natural", "landform", "volcano"]}
+{"id": "table-mountain", "name": "Table Mountain", "country": "South Africa", "continent": "Africa", "location": [-33.9622, 18.4135], "kind": ["natural", "landform", "mountain"]}
+{"id": "great-mosque-of-djenne", "name": "Great Mosque of Djenné", "country": "Mali", "continent": "Africa", "location": [13.9053, -4.5556], "kind": ["built", "religious", "mosque"], "finished": 1907}
+{"id": "church-of-st-george-lalibela", "name": "Church of St George, Lalibela", "country": "Ethiopia", "continent": "Africa", "location": [12.0316, 39.0411], "kind": ["built", "religious", "church"]}
+{"id": "great-zimbabwe", "name": "Great Zimbabwe", "country": "Zimbabwe", "continent": "Africa", "location": [-20.27, 30.933], "kind": ["built", "ancient city"]}
+{"id": "ngorongoro-crater", "name": "Ngorongoro Crater", "country": "Tanzania", "continent": "Africa", "location": [-3.21, 35.46], "kind": ["natural", "landform", "crater"]}
+{"id": "hassan-ii-mosque", "name": "Hassan II Mosque", "country": "Morocco", "continent": "Africa", "location": [33.6073, -7.6326], "kind": ["built", "religious", "mosque"], "finished": 1993}
+{"id": "leptis-magna", "name": "Leptis Magna", "country": "Libya", "continent": "Africa", "location": [32.6383, 14.2905], "kind": ["built", "ancient city"]}
+{"id": "amphitheatre-of-el-jem", "name": "Amphitheatre of El Jem", "country": "Tunisia", "continent": "Africa", "location": [35.2964, 10.7069], "kind": ["built", "venue", "amphitheatre"], "finished": 238}
+{"id": "okavango-delta", "name": "Okavango Delta", "country": "Botswana", "continent": "Africa", "location": [-19.4, 22.9], "kind": ["natural", "water", "river delta"]}
+{"id": "obelisk-of-axum", "name": "Obelisk of Axum", "country": "Ethiopia", "continent": "Africa", "location": [14.1322, 38.7197], "kind": ["built", "monument", "obelisk"]}
+{"id": "murchison-falls", "name": "Murchison Falls", "country": "Uganda", "continent": "Africa", "location": [2.2783, 31.6856], "kind": ["natural", "water", "waterfall"]}
+{"id": "fasil-ghebbi", "name": "Fasil Ghebbi", "country": "Ethiopia", "continent": "Africa", "location": [12.6081, 37.4697], "kind": ["built", "defence", "fortress"]}
+{"id": "tsingy-de-bemaraha", "name": "Tsingy de Bemaraha", "country": "Madagascar", "continent": "Africa", "location": [-18.9006, 44.814], "kind": ["natural", "landform", "rock formation"]}
+{"id": "deadvlei", "name": "Deadvlei", "country": "Namibia", "continent": "Africa", "location": [-24.7633, 15.2947], "kind": ["natural", "landform", "clay pan"]}
+{"id": "great-mosque-of-kairouan", "name": "Great Mosque of Kairouan", "country": "Tunisia", "continent": "Africa", "location": [35.6814, 10.1039], "kind": ["built", "religious", "mosque"]}
+{"id": "basilica-of-our-lady-of-peace", "name": "Basilica of Our Lady of Peace", "country": "Ivory Coast", "continent": "Africa", "location": [6.8111, -5.2969], "kind": ["built", "religious", "church"], "finished": 1990}
+{"id": "ait-benhaddou", "name": "Aït Benhaddou", "country": "Morocco", "continent": "Africa", "location": [31.05, -7.1333], "kind": ["built", "town"]}
+{"id": "blyde-river-canyon", "name": "Blyde River Canyon", "country": "South Africa", "continent": "Africa", "location": [-24.5639, 30.8075], "kind": ["natural", "landform", "canyon"]}
+{"id": "mount-kenya", "name": "Mount Kenya", "country": "Kenya", "continent": "Africa", "location": [-0.1, 37.2], "kind": ["natural", "landform", "mountain"]}
+{"id": "taj-mahal", "name": "Taj Mahal", "country": "India", "continent": "Asia", "location": [27.175, 78.0419], "kind": ["built", "monument", "tomb"], "finished": 1653}
+{"id": "golden-temple", "name": "Golden Temple", "country": "India", "continent": "Asia", "location": [31.62, 74.8767], "kind": ["built", "religious", "temple"], "finished": 1589}
+{"id": "qutb-minar", "name": "Qutb Minar", "country": "India", "continent": "Asia", "location": [28.5244, 77.1852], "kind": ["built", "tower"], "finished": 1220}
+{"id": "hawa-mahal", "name": "Hawa Mahal", "country": "India", "continent": "Asia", "location": [26.924, 75.8267], "kind": ["built", "palace"], "finished": 1799}
+{"id": "meenakshi-temple", "name": "Meenakshi Temple", "country": "India", "continent": "Asia", "location": [9.9197, 78.1194], "kind": ["built", "religious", "temple"]}
+{"id": "great-wall-of-china", "name": "Great Wall of China", "country": "China", "continent": "Asia", "location": [40.4314, 116.5644], "kind": ["built", "defence", "wall"]}
+{"id": "forbidden-city", "name": "Forbidden City", "country": "China", "continent": "Asia", "location": [39.9158, 116.3908], "kind": ["built", "palace"], "finished": 1420}
+{"id": "temple-of-heaven", "name": "Temple of Heaven", "country": "China", "continent": "Asia", "location": [39.8822, 116.4066], "kind": ["built", "religious", "temple"], "finished": 1420}
+{"id": "potala-palace", "name": "Potala Palace", "country": "China", "continent": "Asia", "location": [29.6578, 91.1169], "kind": ["built", "palace"]}
+{"id": "terracotta-army", "name": "Terracotta Army", "country": "China", "continent": "Asia", "location": [34.385, 109.2731], "kind": ["built", "monument", "statue"]}
+{"id": "tianzi-mountains", "name": "Tianzi Mountains", "country": "China", "continent": "Asia", "location": [29.3942, 110.4948], "kind": ["natural", "landform", "mountain"]}
+{"id": "mount-fuji", "name": "Mount Fuji", "country": "Japan", "continent": "Asia", "location": [35.3606, 138.7275], "kind": ["natural", "landform", "volcano"]}
+{"id": "himeji-castle", "name": "Himeji Castle", "country": "Japan", "continent": "Asia", "location": [34.8394, 134.6936], "kind": ["built", "defence", "castle"], "finished": 1609}
+{"id": "fushimi-inari-taisha", "name": "Fushimi Inari-taisha", "country": "Japan", "continent": "Asia", "location": [34.9672, 135.7734], "kind": ["built", "religious", "shrine"]}
+{"id": "kinkaku-ji", "name": "Kinkaku-ji", "country": "Japan", "continent": "Asia", "location": [35.0395, 135.7285], "kind": ["built", "religious", "temple"], "finished": 1397}
+{"id": "itsukushima-shrine", "name": "Itsukushima Shrine", "country": "Japan", "continent": "Asia", "location": [34.2958, 132.3201], "kind": ["built", "religious", "shrine"]}
+{"id": "tokyo-skytree", "name": "Tokyo Skytree", "country": "Japan", "continent": "Asia", "location": [35.7101, 139.8107], "kind": ["built", "tower"], "finished": 2012}
+{"id": "angkor-wat", "name": "Angkor Wat", "country": "Cambodia", "continent": "Asia", "location": [13.4125, 103.8667], "kind": ["built", "religious", "temple"], "finished": 1150}
+{"id": "borobudur", "name": "Borobudur", "country": "Indonesia", "continent": "Asia", "location": [-7.6079, 110.2038], "kind": ["built", "religious", "temple"]}
+{"id": "prambanan", "name": "Prambanan", "country": "Indonesia", "continent": "Asia", "location": [-7.752, 110.4912], "kind": ["built", "religious", "temple"], "finished": 850}
+{"id": "mount-bromo", "name": "Mount Bromo", "country": "Indonesia", "continent": "Asia", "location": [-7.9431, 112.9539], "kind": ["natural", "landform", "volcano"]}
+{"id": "shwedagon-pagoda", "name": "Shwedagon Pagoda", "country": "Myanmar", "continent": "Asia", "location": [16.7983, 96.1494], "kind": ["built", "religious", "stupa"]}
+{"id": "wat-arun", "name": "Wat Arun", "country": "Thailand", "continent": "Asia", "location": [13.7437, 100.4889], "kind": ["built", "religious", "temple"]}
+{"id": "ha-long-bay", "name": "Ha Long Bay", "country": "Vietnam", "continent": "Asia", "location": [20.9, 107.2], "kind": ["natural", "water", "bay"]}
+{"id": "petronas-towers", "name": "Petronas Towers", "country": "Malaysia", "continent": "Asia", "location": [3.1578, 101.7117], "kind": ["built", "skyscraper"], "finished": 1996}
+{"id": "marina-bay-sands", "name": "Marina Bay Sands", "country": "Singapore", "continent": "Asia", "location": [1.2825, 103.86], "kind": ["built", "hotel"], "finished": 2010}
+{"id": "chocolate-hills", "name": "Chocolate Hills", "country": "Philippines", "continent": "Asia", "location": [9.9167, 124.1667], "kind": ["natural", "landform", "hills"]}
+{"id": "mayon-volcano", "name": "Mayon Volcano", "country": "Philippines", "continent": "Asia", "location": [13.2567, 123.685], "kind": ["natural", "landform", "volcano"]}
+{"id": "gyeongbokgung", "name": "Gyeongbokgung", "country": "South Korea", "continent": "Asia", "location": [37.5799, 126.9768], "kind": ["built", "palace"], "finished": 1395}
+{"id": "boudhanath", "name": "Boudhanath", "country": "Nepal", "continent": "Asia", "location": [27.7214, 85.3619], "kind": ["built", "religious", "stupa"]}
+{"id": "sigiriya", "name": "Sigiriya", "country": "Sri Lanka", "continent": "Asia", "location": [7.9569, 80.7597], "kind": ["built", "defence", "fortress"]}
+{"id": "paro-taktsang", "name": "Paro Taktsang", "country": "Bhutan", "continent": "Asia", "location": [27.4917, 89.3633], "kind": ["built", "religious", "monastery"], "finished": 1692}
+{"id": "burj-khalifa", "name": "Burj Khalifa", "country": "United Arab Emirates", "continent": "Asia", "location": [25.1972, 55.2742], "kind": ["built", "skyscraper"], "finished": 2009}
+{"id": "sheikh-zayed-grand-mosque", "name": "Sheikh Zayed Grand Mosque", "country": "United Arab Emirates", "continent": "Asia", "location": [24.412, 54.474], "kind": ["built", "religious", "mosque"], "finished": 2007}
+{"id": "petra", "name": "Petra", "country": "Jordan", "continent": "Asia", "location": [30.3289, 35.4403], "kind": ["built", "ancient city"]}
+{"id": "wadi-rum", "name": "Wadi Rum", "country": "Jordan", "continent": "Asia", "location": [29.5765, 35.4199], "kind": ["natural", "landform", "valley"]}
+{"id": "pamukkale", "name": "Pamukkale", "country": "Turkey", "continent": "Asia", "location": [37.9236, 29.1223], "kind": ["natural", "water", "hot spring"]}
+{"id": "persepolis", "name": "Persepolis", "country": "Iran", "continent": "Asia", "location": [29.935, 52.89], "kind": ["built", "ancient city"]}
+{"id": "shah-mosque-isfahan", "name": "Shah Mosque, Isfahan", "country": "Iran", "continent": "Asia", "location": [32.6548, 51.6778], "kind": ["built", "religious", "mosque"], "finished": 1630}
+{"id": "registan", "name": "Registan", "country": "Uzbekistan", "continent": "Asia", "location": [39.6547, 66.9756], "kind": ["built", "square"]}
+{"id": "mount-ararat", "name": "Mount Ararat", "country": "Turkey", "continent": "Asia", "location": [39.7019, 44.2983], "kind": ["natural", "landform", "volcano"]}
+{"id": "baalbek", "name": "Baalbek", "country": "Lebanon", "continent": "Asia", "location": [34.0061, 36.2086], "kind": ["built", "ancient city"]}
+{"id": "badshahi-mosque", "name": "Badshahi Mosque", "country": "Pakistan", "continent": "Asia", "location": [31.5881, 74.3094], "kind": ["built", "religious", "mosque"], "finished": 1673}
+{"id": "lake-baikal", "name": "Lake Baikal", "country": "Russia", "continent": "Asia", "location": [53.3028, 108.0047], "kind": ["natural", "water", "lake"]}
+{"id": "taipei-101", "name": "Taipei 101", "country": "Taiwan", "continent": "Asia", "location": [25.0336, 121.5647], "kind": ["built", "skyscraper"], "finished": 2004}
+{"id": "bagan", "name": "Bagan", "country": "Myanmar", "continent": "Asia", "location": [21.1725, 94.86], "kind": ["built", "ancient city"]}
+{"id": "bayterek-tower", "name": "Bayterek Tower", "country": "Kazakhstan", "continent": "Asia", "location": [51.1283, 71.4306], "kind": ["built", "tower"], "finished": 2002}
+{"id": "mount-kinabalu", "name": "Mount Kinabalu", "country": "Malaysia", "continent": "Asia", "location": [6.075, 116.5586], "kind": ["natural", "landform", "mountain"]}
+{"id": "eiffel-tower", "name": "Eiffel Tower", "country": "France", "continent": "Europe", "location": [48.8583, 2.2945], "kind": ["built", "tower"], "finished": 1889}
+{"id": "mont-saint-michel", "name": "Mont-Saint-Michel", "country": "France", "continent": "Europe", "location": [48.6358, -1.5103], "kind": ["built", "town"]}
+{"id": "colosseum", "name": "Colosseum", "country": "Italy", "continent": "Europe", "location": [41.8903, 12.4922], "kind": ["built", "venue", "amphitheatre"], "finished": 80}
+{"id": "leaning-tower-of-pisa", "name": "Leaning Tower of Pisa", "country": "Italy", "continent": "Europe", "location": [43.723, 10.3966], "kind": ["built", "tower"], "finished": 1372}
+{"id": "st-peter-s-basilica", "name": "St Peter's Basilica", "country": "Vatican City", "continent": "Europe", "location": [41.9022, 12.4534], "kind": ["built", "religious", "church"], "finished": 1626}
+{"id": "sagrada-familia", "name": "Sagrada Família", "country": "Spain", "continent": "Europe", "location": [41.4037, 2.1743], "kind": ["built", "religious", "church"]}
+{"id": "alhambra", "name": "Alhambra", "country": "Spain", "continent": "Europe", "location": [37.1763, -3.5882], "kind": ["built", "palace"]}
+{"id": "parthenon", "name": "Parthenon", "country": "Greece", "continent": "Europe", "location": [37.9715, 23.7266], "kind": ["built", "religious", "temple"], "finished": -432}
+{"id": "stonehenge", "name": "Stonehenge", "country": "United Kingdom", "continent": "Europe", "location": [51.1789, -1.8261], "kind": ["built", "monument", "stone circle"]}
+{"id": "big-ben", "name": "Big Ben", "country": "United Kingdom", "continent": "Europe", "location": [51.5007, -0.1246], "kind": ["built", "tower"], "finished": 1859}
+{"id": "tower-bridge", "name": "Tower Bridge", "country": "United Kingdom", "continent": "Europe", "location": [51.5056, -0.0753], "kind": ["built", "bridge"], "finished": 1894}
+{"id": "neuschwanstein-castle", "name": "Neuschwanstein Castle", "country": "Germany", "continent": "Europe", "location": [47.5575, 10.7494], "kind": ["built", "palace"]}
+{"id": "brandenburg-gate", "name": "Brandenburg Gate", "country": "Germany", "continent": "Europe", "location": [52.5163, 13.3777], "kind": ["built", "monument", "gate"], "finished": 1791}
+{"id": "cologne-cathedral", "name": "Cologne Cathedral", "country": "Germany", "continent": "Europe", "location": [50.9414, 6.9583], "kind": ["built", "religious", "church"], "finished": 1880}
+{"id": "st-basil-s-cathedral", "name": "St Basil's Cathedral", "country": "Russia", "continent": "Europe", "location": [55.7525, 37.6231], "kind": ["built", "religious", "church"], "finished": 1561}
+{"id": "charles-bridge", "name": "Charles Bridge", "country": "Czech Republic", "continent": "Europe", "location": [50.0864, 14.4119], "kind": ["built", "bridge"], "finished": 1402}
+{"id": "atomium", "name": "Atomium", "country": "Belgium", "continent": "Europe", "location": [50.895, 4.3414], "kind": ["built", "monument", "sculpture"], "finished": 1958}
+{"id": "mount-etna", "name": "Mount Etna", "country": "Italy", "continent": "Europe", "location": [37.7508, 14.9932], "kind": ["natural", "landform", "volcano"]}
+{"id": "giant-s-causeway", "name": "Giant's Causeway", "country": "United Kingdom", "continent": "Europe", "location": [55.2408, -6.5117], "kind": ["natural", "landform", "rock formation"]}
+{"id": "cliffs-of-moher", "name": "Cliffs of Moher", "country": "Ireland", "continent": "Europe", "location": [52.9361, -9.4708], "kind": ["natural", "landform", "cliff"]}
+{"id": "plitvice-lakes", "name": "Plitvice Lakes", "country": "Croatia", "continent": "Europe", "location": [44.8804, 15.616], "kind": ["natural", "water", "lake"]}
+{"id": "meteora", "name": "Meteora", "country": "Greece", "continent": "Europe", "location": [39.7125, 21.6267], "kind": ["built", "religious", "monastery"]}
+{"id": "geirangerfjord", "name": "Geirangerfjord", "country": "Norway", "continent": "Europe", "location": [62.0944, 7.0806], "kind": ["natural", "water", "fjord"]}
+{"id": "preikestolen", "name": "Preikestolen", "country": "Norway", "continent": "Europe", "location": [58.9867, 6.1875], "kind": ["natural", "landform", "cliff"]}
+{"id": "gullfoss", "name": "Gullfoss", "country": "Iceland", "continent": "Europe", "location": [64.3261, -20.1211], "kind": ["natural", "water", "waterfall"]}
+{"id": "belem-tower", "name": "Belém Tower", "country": "Portugal", "continent": "Europe", "location": [38.6914, -9.2158], "kind": ["built", "defence", "fort"], "finished": 1519}
+{"id": "hungarian-parliament", "name": "Hungarian Parliament", "country": "Hungary", "continent": "Europe", "location": [47.5069, 19.0456], "kind": ["built", "parliament"], "finished": 1904}
+{"id": "bran-castle", "name": "Bran Castle", "country": "Romania", "continent": "Europe", "location": [45.515, 25.3671], "kind": ["built", "defence", "castle"]}
+{"id": "rhine-falls", "name": "Rhine Falls", "country": "Switzerland", "continent": "Europe", "location": [47.6772, 8.6158], "kind": ["natural", "water", "waterfall"]}
+{"id": "statue-of-liberty", "name": "Statue of Liberty", "country": "United States", "continent": "North America", "location": [40.6892, -74.0444], "kind": ["built", "monument", "statue"], "finished": 1886}
+{"id": "golden-gate-bridge", "name": "Golden Gate Bridge", "country": "United States", "continent": "North America", "location": [37.8197, -122.4786], "kind": ["built", "bridge"], "finished": 1937}
+{"id": "grand-canyon", "name": "Grand Canyon", "country": "United States", "continent": "North America", "location": [36.0975, -112.0953], "kind": ["natural", "landform", "canyon"]}
+{"id": "mount-rushmore", "name": "Mount Rushmore", "country": "United States", "continent": "North America", "location": [43.8789, -103.4592], "kind": ["built", "monument", "sculpture"], "finished": 1941}
+{"id": "empire-state-building", "name": "Empire State Building", "country": "United States", "continent": "North America", "location": [40.7483, -73.9856], "kind": ["built", "skyscraper"], "finished": 1931}
+{"id": "old-faithful", "name": "Old Faithful", "country": "United States", "continent": "North America", "location": [44.4605, -110.8281], "kind": ["natural", "water", "geyser"]}
+{"id": "half-dome", "name": "Half Dome", "country": "United States", "continent": "North America", "location": [37.746, -119.5332], "kind": ["natural", "landform", "mountain"]}
+{"id": "devils-tower", "name": "Devils Tower", "country": "United States", "continent": "North America", "location": [44.5903, -104.7153], "kind": ["natural", "landform", "rock formation"]}
+{"id": "delicate-arch", "name": "Delicate Arch", "country": "United States", "continent": "North America", "location": [38.7436, -109.4994], "kind": ["natural", "landform", "rock formation"]}
+{"id": "gateway-arch", "name": "Gateway Arch", "country": "United States", "continent": "North America", "location": [38.6246, -90.185], "kind": ["built", "monument", "arch"], "finished": 1965}
+{"id": "space-needle", "name": "Space Needle", "country": "United States", "continent": "North America", "location": [47.6204, -122.3491], "kind": ["built", "tower"], "finished": 1961}
+{"id": "denali", "name": "Denali", "country": "United States", "continent": "North America", "location": [63.0691, -151.0063], "kind": ["natural", "landform", "mountain"]}
+{"id": "grand-prismatic-spring", "name": "Grand Prismatic Spring", "country": "United States", "continent": "North America", "location": [44.525, -110.8381], "kind": ["natural", "water", "hot spring"]}
+{"id": "cn-tower", "name": "CN Tower", "country": "Canada", "continent": "North America", "location": [43.6428, -79.3871], "kind": ["built", "tower"], "finished": 1976}
+{"id": "chateau-frontenac", "name": "Château Frontenac", "country": "Canada", "continent": "North America", "location": [46.8118, -71.2054], "kind": ["built", "hotel"], "finished": 1893}
+{"id": "moraine-lake", "name": "Moraine Lake", "country": "Canada", "continent": "North America", "location": [51.3225, -116.1856], "kind": ["natural", "water", "lake"]}
+{"id": "el-castillo-chichen-itza", "name": "El Castillo, Chichén Itzá", "country": "Mexico", "continent": "North America", "location": [20.6829, -88.5686], "kind": ["built", "religious", "temple"]}
+{"id": "pyramid-of-the-sun", "name": "Pyramid of the Sun", "country": "Mexico", "continent": "North America", "location": [19.6925, -98.8438], "kind": ["built", "religious", "temple"], "finished": 200}
+{"id": "tikal-temple-i", "name": "Tikal Temple I", "country": "Guatemala", "continent": "North America", "location": [17.2221, -89.6231], "kind": ["built", "religious", "temple"], "finished": 732}
+{"id": "arenal-volcano", "name": "Arenal Volcano", "country": "Costa Rica", "continent": "North America", "location": [10.4625, -84.7033], "kind": ["natural", "landform", "volcano"]}
+{"id": "great-blue-hole", "name": "Great Blue Hole", "country": "Belize", "continent": "North America", "location": [17.3156, -87.5344], "kind": ["natural", "water", "sinkhole"]}
+{"id": "pitons", "name": "Pitons", "country": "Saint Lucia", "continent": "North America", "location": [13.8071, -61.0704], "kind": ["natural", "landform", "mountain"]}
+{"id": "el-capitolio-havana", "name": "El Capitolio, Havana", "country": "Cuba", "continent": "North America", "location": [23.1353, -82.3594], "kind": ["built", "parliament"], "finished": 1929}
+{"id": "citadelle-laferriere", "name": "Citadelle Laferrière", "country": "Haiti", "continent": "North America", "location": [19.5736, -72.2439], "kind": ["built", "defence", "fortress"], "finished": 1820}
+{"id": "popocatepetl", "name": "Popocatépetl", "country": "Mexico", "continent": "North America", "location": [19.0234, -98.6234], "kind": ["natural", "landform", "volcano"]}
+{"id": "panama-canal", "name": "Panama Canal", "country": "Panama", "continent": "North America", "location": [9.12, -79.75], "kind": ["built", "canal"], "finished": 1914}
+{"id": "machu-picchu", "name": "Machu Picchu", "country": "Peru", "continent": "South America", "location": [-13.1633, -72.5456], "kind": ["built", "ancient city"]}
+{"id": "christ-the-redeemer", "name": "Christ the Redeemer", "country": "Brazil", "continent": "South America", "location": [-22.9519, -43.2105], "kind": ["built", "monument", "statue"], "finished": 1931}
+{"id": "sugarloaf-mountain", "name": "Sugarloaf Mountain", "country": "Brazil", "continent": "South America", "location": [-22.9494, -43.1567], "kind": ["natural", "landform", "mountain"]}
+{"id": "angel-falls", "name": "Angel Falls", "country": "Venezuela", "continent": "South America", "location": [5.9701, -62.5362], "kind": ["natural", "water", "waterfall"]}
+{"id": "perito-moreno-glacier", "name": "Perito Moreno Glacier", "country": "Argentina", "continent": "South America", "location": [-50.4932, -73.128], "kind": ["natural", "water", "glacier"]}
+{"id": "torres-del-paine", "name": "Torres del Paine", "country": "Chile", "continent": "South America", "location": [-51, -73], "kind": ["natural", "landform", "mountain"]}
+{"id": "ahu-tongariki", "name": "Ahu Tongariki", "country": "Chile", "continent": "Oceania", "location": [-27.1258, -109.2769], "kind": ["built", "monument", "statue"]}
+{"id": "salar-de-uyuni", "name": "Salar de Uyuni", "country": "Bolivia", "continent": "South America", "location": [-20.3333, -67.7], "kind": ["natural", "landform", "salt flat"]}
+{"id": "cotopaxi", "name": "Cotopaxi", "country": "Ecuador", "continent": "South America", "location": [-0.6806, -78.4378], "kind": ["natural", "landform", "volcano"]}
+{"id": "aconcagua", "name": "Aconcagua", "country": "Argentina", "continent": "South America", "location": [-32.6531, -70.0117], "kind": ["natural", "landform", "mountain"]}
+{"id": "nazca-lines", "name": "Nazca Lines", "country": "Peru", "continent": "South America", "location": [-14.6975, -75.135], "kind": ["built", "monument", "geoglyph"]}
+{"id": "cathedral-of-brasilia", "name": "Cathedral of Brasília", "country": "Brazil", "continent": "South America", "location": [-15.7983, -47.8756], "kind": ["built", "religious", "church"], "finished": 1970}
+{"id": "rainbow-mountain", "name": "Rainbow Mountain", "country": "Peru", "continent": "South America", "location": [-13.8695, -71.303], "kind": ["natural", "landform", "mountain"]}
+{"id": "kaieteur-falls", "name": "Kaieteur Falls", "country": "Guyana", "continent": "South America", "location": [5.1781, -59.4823], "kind": ["natural", "water", "waterfall"]}
+{"id": "las-lajas-sanctuary", "name": "Las Lajas Sanctuary", "country": "Colombia", "continent": "South America", "location": [0.8055, -77.586], "kind": ["built", "religious", "church"], "finished": 1949}
+{"id": "teatro-amazonas", "name": "Teatro Amazonas", "country": "Brazil", "continent": "South America", "location": [-3.1303, -60.0233], "kind": ["built", "venue", "opera house"], "finished": 1896}
+{"id": "lencois-maranhenses", "name": "Lençóis Maranhenses", "country": "Brazil", "continent": "South America", "location": [-2.4833, -43.1333], "kind": ["natural", "landform", "dunes"]}
+{"id": "obelisco-de-buenos-aires", "name": "Obelisco de Buenos Aires", "country": "Argentina", "continent": "South America", "location": [-34.6038, -58.3816], "kind": ["built", "monument", "obelisk"], "finished": 1936}
+{"id": "sacsayhuaman", "name": "Sacsayhuamán", "country": "Peru", "continent": "South America", "location": [-13.5078, -71.9822], "kind": ["built", "defence", "fortress"]}
+{"id": "castillo-san-felipe-de-barajas", "name": "Castillo San Felipe de Barajas", "country": "Colombia", "continent": "South America", "location": [10.4222, -75.5381], "kind": ["built", "defence", "fortress"]}
+{"id": "sydney-opera-house", "name": "Sydney Opera House", "country": "Australia", "continent": "Oceania", "location": [-33.8571, 151.2149], "kind": ["built", "venue", "opera house"], "finished": 1973}
+{"id": "sydney-harbour-bridge", "name": "Sydney Harbour Bridge", "country": "Australia", "continent": "Oceania", "location": [-33.8522, 151.2107], "kind": ["built", "bridge"], "finished": 1932}
+{"id": "uluru", "name": "Uluru", "country": "Australia", "continent": "Oceania", "location": [-25.345, 131.0361], "kind": ["natural", "landform", "rock formation"]}
+{"id": "twelve-apostles", "name": "Twelve Apostles", "country": "Australia", "continent": "Oceania", "location": [-38.6406, 143.0494], "kind": ["natural", "landform", "rock formation"]}
+{"id": "great-barrier-reef", "name": "Great Barrier Reef", "country": "Australia", "continent": "Oceania", "location": [-16.4, 145.8], "kind": ["natural", "water", "reef"]}
+{"id": "milford-sound", "name": "Milford Sound", "country": "New Zealand", "continent": "Oceania", "location": [-44.6167, 167.8667], "kind": ["natural", "water", "fjord"]}
+{"id": "aoraki-mount-cook", "name": "Aoraki / Mount Cook", "country": "New Zealand", "continent": "Oceania", "location": [-43.595, 170.1419], "kind": ["natural", "landform", "mountain"]}
+{"id": "sky-tower", "name": "Sky Tower", "country": "New Zealand", "continent": "Oceania", "location": [-36.8485, 174.7623], "kind": ["built", "tower"], "finished": 1997}
+{"id": "nan-madol", "name": "Nan Madol", "country": "Micronesia", "continent": "Oceania", "location": [6.8419, 158.3322], "kind": ["built", "ancient city"]}
+{"id": "wave-rock", "name": "Wave Rock", "country": "Australia", "continent": "Oceania", "location": [-32.4439, 118.8983], "kind": ["natural", "landform", "rock formation"]}
+{"id": "kata-tjuta", "name": "Kata Tjuta", "country": "Australia", "continent": "Oceania", "location": [-25.3, 130.7593], "kind": ["natural", "landform", "rock formation"]}
+{"id": "pohutu-geyser", "name": "Pōhutu Geyser", "country": "New Zealand", "continent": "Oceania", "location": [-38.1635, 176.254], "kind": ["natural", "water", "geyser"]}
+{"id": "mount-taranaki", "name": "Mount Taranaki", "country": "New Zealand", "continent": "Oceania", "location": [-39.2964, 174.0647], "kind": ["natural", "landform", "volcano"]}
+{"id": "mount-erebus", "name": "Mount Erebus", "continent": "Antarctica", "location": [-77.5333, 167.2833], "kind": ["natural", "landform", "volcano"]}
+{"id": "lemaire-channel", "name": "Lemaire Channel", "continent": "Antarctica", "location": [-65.133, -64], "kind": ["natural", "water", "strait"]}
+{"id": "deception-island", "name": "Deception Island", "continent": "Antarctica", "location": [-62.95, -60.633], "kind": ["natural", "landform", "volcano"]}

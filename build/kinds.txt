@@ -1,7 +1,6 @@
 Great Pyramid of Giza|built > monument > tomb
 Great Sphinx of Giza|built > monument > statue
 Abu Simbel|built > religious > temple
-Karnak|built > religious > temple
 Kilimanjaro|natural > landform > volcano
 Table Mountain|natural > landform > mountain
 Great Mosque of Djenné|built > religious > mosque
