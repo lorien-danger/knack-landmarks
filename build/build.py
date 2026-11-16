@@ -72,7 +72,7 @@ if __name__ == '__main__':
     old = json.load(open(meta_path)) if meta_path.exists() else {'columns': []}
     columns = [
         {'name': 'name', 'type': 'text'},
-        {'name': 'photo', 'type': 'plain', 'media': 'image', 'fit': 'cover', 'aspect': 1.333},
+        {'name': 'photo', 'type': 'plain', 'media': 'image'},
         {'name': 'country', 'type': 'plain'},
         {'name': 'continent', 'type': 'plain'},
         {'name': 'location', 'type': 'sphere', 'label': 'Where it is'},
