@@ -32,7 +32,7 @@ def text(s):
 
 def info(name):
     q = urllib.parse.urlencode({'action': 'query', 'titles': 'File:' + name, 'prop': 'imageinfo',
-                                'iiprop': 'url|extmetadata|size', 'iiurlwidth': BOX[0], 'format': 'json'})
+                                'iiprop': 'url|extmetadata|size|user', 'iiurlwidth': BOX[0], 'format': 'json'})
     page = next(iter(json.loads(get('https://commons.wikimedia.org/w/api.php?' + q))['query']['pages'].values()))
     ii = page['imageinfo'][0]
     return ii, {k: v.get('value', '') for k, v in ii.get('extmetadata', {}).items()}
@@ -57,7 +57,7 @@ if __name__ == '__main__':
         lic = text(m.get('LicenseShortName'))
         if not lic or re.search(r'non-?commercial|fair use|all rights', lic, re.I): raise SystemExit(f'{i}: licence {lic!r}')
         credits[i] = {'id': i, 'file': f'media/{i}.jpg', 'commons page': ii['descriptionurl'],
-                      'author': text(m.get('Artist')) or text(m.get('Credit')), 'licence': lic,
+                      'author': text(m.get('Artist')) or text(m.get('Attribution')) or (f"{ii['user']} (uploader; the file page names no other author)" if re.search(r'own work|^$', text(m.get('Credit')), re.I) else text(m.get('Credit'))), 'licence': lic,
                       'licence link': m.get('LicenseUrl', ''), 'description': text(m.get('ImageDescription'))[:300]}
         print(i, img.size, lic, flush=True)
         time.sleep(2)

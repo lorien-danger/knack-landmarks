@@ -69,6 +69,13 @@
    "file": "name-sound.npy",
    "of": "name",
    "model": "bookbot/onnx-byt5-small-wikipron-eng-latn-au-broad"
+  },
+  {
+   "name": "photo look",
+   "type": "embedding",
+   "file": "photo-look.npy",
+   "of": "photo",
+   "model": "facebook/dinov2-base"
   }
  ]
 }
