@@ -6,7 +6,7 @@ waterfall …) and, for built ones where the sources give a single year, the yea
 embeddings: how the photograph looks (DINOv2) and how the name sounds (a ByT5 pronunciation model). A dataset for
 [Knack](https://github.com/lorien-danger/knack). Add it by this repo's link.
 
-Suggested decks: **What is it called?** (photo, name), **Where in the world?** (photo, name, where it is) and
+Suggested decks: **Name the landmark** (photo, name), **Where in the world?** (photo, name, where it is) and
 **Which country?** (photo, name, country).
 
 | continent | landmarks | | kind | landmarks |

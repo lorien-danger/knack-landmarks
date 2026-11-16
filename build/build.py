@@ -82,7 +82,7 @@ if __name__ == '__main__':
     columns += [c for c in old['columns'] if c['type'] == 'embedding']
     meta = {'name': 'Landmarks', 'item': 'landmark', 'items': 'landmarks', 'title': 'name',
             'practices': [
-                {'name': 'What is it called?', 'columns': ['photo', 'name']},
+                {'name': 'Name the landmark', 'columns': ['photo', 'name']},
                 {'name': 'Where in the world?', 'columns': ['photo', 'name', 'location']},
                 {'name': 'Which country?', 'columns': ['photo', 'name', 'country']},
             ],
