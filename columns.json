@@ -31,12 +31,22 @@
  "columns": [
   {
    "name": "name",
-   "type": "text"
+   "type": "text",
+   "near": {
+    "file": "name-sound.npy",
+    "by": "sound",
+    "model": "bookbot/onnx-byt5-small-wikipron-eng-latn-au-broad"
+   }
   },
   {
    "name": "photo",
    "type": "plain",
-   "media": "image"
+   "media": "image",
+   "near": {
+    "file": "photo-look.npy",
+    "by": "look",
+    "model": "facebook/dinov2-base"
+   }
   },
   {
    "name": "country",
@@ -60,20 +70,6 @@
    "name": "finished",
    "type": "number",
    "label": "Year finished"
-  },
-  {
-   "name": "name sound",
-   "type": "embedding",
-   "file": "name-sound.npy",
-   "of": "name",
-   "model": "bookbot/onnx-byt5-small-wikipron-eng-latn-au-broad"
-  },
-  {
-   "name": "photo look",
-   "type": "embedding",
-   "file": "photo-look.npy",
-   "of": "photo",
-   "model": "facebook/dinov2-base"
   }
  ]
 }

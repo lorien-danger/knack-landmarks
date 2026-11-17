@@ -79,7 +79,10 @@ if __name__ == '__main__':
         {'name': 'kind', 'type': 'tree', 'label': 'What it is'},
         {'name': 'finished', 'type': 'number', 'label': 'Year finished'},
     ]
-    columns += [c for c in old['columns'] if c['type'] == 'embedding']
+    # what makes a column's values alike (added by embed.py and by the app) stays on the column
+    near = {c['name']: c['near'] for c in old['columns'] if 'near' in c}
+    for c in columns:
+        if c['name'] in near: c['near'] = near[c['name']]
     meta = {'name': 'Landmarks', 'item': 'landmark', 'items': 'landmarks', 'title': 'name',
             'practices': [
                 {'name': 'Name the landmark', 'columns': ['photo', 'name']},
